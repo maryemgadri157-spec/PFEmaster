@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Η σελίδα που ψάχνεις δεν βρέθηκε | Praktiker</title>
+<meta name="description" content="Η σελίδα που ψάχνεις δεν βρέθηκε" />
+<meta name="keywords" content="Εργαλεία, δομικά υλικά, χρώματα, βερνίκια, ξυλεία, πατώματα, πλακάκια, πόρτες, παράθυρα, ψύξη, θέρμανση, είδη υγιεινής, έπιπλα μπάνιου, ηλεκτρολογικά, φωτισμός, οικιακά είδη, ηλεκτρικές συσκευές, ηλεκτρονικά, διακόσμηση, κήπος, βεράντα, αυτοκίνητο, μηχανή, ποδήλατο, είδη γυμναστικής, ταξίδι, camping" />
+<link rel="stylesheet" type="text/css" href="/style/foundation.min.css">
+<link href="https://fonts.googleapis.com/css?family=Ubuntu:400,300,500,700&amp;subset=latin,greek" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+<style>
+#not-found {
+	background-image:url(images/20191217_NotFound_bg.gif);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-size: cover;
+    min-height: 100vh;
+}
+#not-found h1, h2, h3, h4 {
+	font-family: "Ubuntu", sans-serif;
+	font-weight: 500;
+	letter-spacing: -0.03rem;
+}
+#not-found h1 {
+	font-size: 18rem;
+	line-height: 19rem;
+}
+#not-found .button {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 0 1rem 0;
+    font-family: "Ubuntu", sans-serif;
+    -webkit-appearance: none;
+    transition: background-color .25s ease-out,color .25s ease-out;
+    line-height: 1;
+    text-align: center;
+    cursor: pointer;
+	border-radius: 5px;
+    font-weight: 700;
+    font-size: 1.35rem;
+    padding: 0.3em 1.6em 0.7em 1.6em;
+	/* white-space: nowrap; */
+}
+#not-found .blue {
+    background-color: #0066b3;
+    color: #fff;
+	margin-left: 2rem;
+}
+#not-found .gray {
+    background-color: #c6c6c6;
+    color: #000;
+	margin-right: 2rem;
+}
+#not-found .fa {
+    font-size: 2.5rem;
+	padding-left: 0.5rem;
+	position: relative;
+    top: 5px;
+}
+@media (max-width: 64em) {
+#not-found h1 {
+    font-size: 13rem;
+    line-height: 14rem;
+}
+#not-found h2 {
+	font-size: 1.9rem;
+    line-height: 2rem;
+}
+#not-found h3 {
+    font-size: 1.4rem;
+    line-height: 2rem;
+}
+#not-found .blue {
+	margin-left: 0;
+}
+#not-found .gray {
+	margin-right: 0;
+}	
+}
+@media (max-width: 40em) {
+#not-found {
+	background-image:url(images/20191217_NotFound_bg_mob.gif);
+}
+#not-found h1 {
+	font-size: 9rem;
+	line-height: 9rem;
+}
+#not-found h2 {
+	font-size: 1.3rem;
+    line-height: 1.7rem;
+}
+#not-found h3 {
+    font-size: 1.1rem;
+    line-height: 1.4rem;
+}
+#not-found .fa {
+    font-size: 1.3rem;
+    padding-left: 0.3rem;
+}
+#not-found .button {
+	font-size: 1rem;	
+}
+#not-found .fa {
+    top: 2px;
+}
+#not-found .margin-top-2 {
+    margin-top: 1rem!important;
+}
+}
+</style>
+</head>
+
+<body>
+<div id="not-found">
+	<div class="grid-container">
+		<div class="grid-x">
+        	<div class="cell small-12 text-center">
+            	<h1 class="margin-0">404</h1>
+                <h2 class="margin-bottom-2">Φαίνεται πως η σελίδα που ζητήσατε... Δεν υπάρχει!</h2>
+                <h3>Λυπούμαστε πολύ, αλλά η σελίδα μπορεί να έχει διαγραφεί, <br class="show-for-large" />μετονομαστεί, ή να μην είναι προσωρινά προσβάσιμη.</h3>
+                <h2 class="margin-bottom-1 margin-top-2">Στο μεταξύ, μπορείτε να:</h2>
+                <a href="/Index.aspx" class="button blue font-bold margin-top-1">ΕΠΙΣΤΡΕΨΕΤΕ <br class="show-for-small-only" />ΣΤΗΝ ΑΡΧΙΚΗ ΣΕΛΙΔΑ<i class="fa fa-chevron-circle-right"></i></a>
+            </div>
+        </div>
+	</div>
+</div>    
+</body>
+</html>

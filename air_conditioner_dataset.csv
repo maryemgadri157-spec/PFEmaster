@@ -1,0 +1,33 @@
+Brand,Model_Name,Price,Capacity_BTU,Coverage_M2,AC_Type,Inverter,Energy_Class,Color,Warranty_Years,Image_Path
+BEKO,Beko BBFD 120,1399,12000,25-35,Split,No,A+,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\BEKO_Beko_BBFD_120
+CARRIER,Carrier 42QHC-24,3150,24000,50-65,Split,Yes,A++,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\CARRIER_Carrier_42QHC-24
+CARRIER,Carrier 53KHCT-09GE,1199,9000,15-22,Split,No,A,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\CARRIER_Carrier_53KHCT-09GE
+CARRIER,Carrier 53KHCT-12,1399,12000,25-35,Split,No,A,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\CARRIER_Carrier_53KHCT-12
+CARRIER,Carrier 53KHCT-12GE,1399,12000,25-35,Split,No,A,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\CARRIER_Carrier_53KHCT-12GE
+CARRIER,Carrier 53KHCT-18,1999,18000,35-45,Split,No,A,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\CARRIER_Carrier_53KHCT-18
+CARRIER,Carrier 53KHCT-18GE,1999,18000,35-45,Split,No,A,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\CARRIER_Carrier_53KHCT-18GE
+CARRIER,Carrier 53QHC-12,1799,12000,25-35,Split,Yes,A++,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\CARRIER_Carrier_53QHC-12
+GREE,Gree GWH09AAB-K6DNA1A,1499,9000,15-22,Split,Yes,A++,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\GREE_Gree_GWH09AAB-K6DNA1A
+GREE,Gree GWH12AAB-K6DNA1A,1649,12000,25-35,Split,Yes,A++,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\GREE_Gree_GWH12AAB-K6DNA1A
+GREE,Gree GWH12AGA-K6DNA1A,1699,12000,25-35,Split,Yes,A++,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\GREE_Gree_GWH12AGA-K6DNA1A
+GREE,Gree GWH18AAD-K6DNA1A,2279,18000,35-45,Split,Yes,A++,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\GREE_Gree_GWH18AAD-K6DNA1A
+GREE,Gree GWH24AAD-K6DNA1A,3049,24000,50-65,Split,Yes,A++,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\GREE_Gree_GWH24AAD-K6DNA1A
+HAIER,Haier AS12NS4ERA-B,1599,12000,25-35,Split,Yes,A++,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\HAIER_Haier_AS12NS4ERA-B
+HAIER,Haier AS18NS4ERA-B,2199,18000,35-45,Split,Yes,A++,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\HAIER_Haier_AS18NS4ERA-B
+HAIER,Haier AS24NS4ERA-B,2899,24000,50-65,Split,Yes,A++,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\HAIER_Haier_AS24NS4ERA-B
+HISENSE,Hisense AS-12HR4SVDTG,1299,12000,25-35,Split,No,A,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\HISENSE_Hisense_AS-12HR4SVDTG
+HISENSE,Hisense AS-18HR4SVDTG,1799,18000,35-45,Split,No,A,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\HISENSE_Hisense_AS-18HR4SVDTG
+LG,LG S12EQ,2599,12000,25-35,Split,Yes,A++,White,5,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\LG_LG_S12EQ
+LG,LG S18EQ,3299,18000,35-45,Split,Yes,A++,White,5,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\LG_LG_S18EQ
+MIDEA,Midea MPAD-09CRN7,1249,9000,15-22,Portable,No,A,White,2,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\MIDEA_Midea_MPAD-09CRN7
+MIDEA,Midea MSR1-09CRN1,1149,9000,15-22,Split,No,A,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\MIDEA_Midea_MSR1-09CRN1
+MIDEA,Midea MSR1-12CRN1,1299,12000,25-35,Split,No,A,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\MIDEA_Midea_MSR1-12CRN1
+MIDEA,Midea MSR1-18CRN1,1899,18000,35-45,Split,No,A,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\MIDEA_Midea_MSR1-18CRN1
+MIDEA,Midea MSR1-24CRN1,2499,24000,50-65,Split,No,A,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\MIDEA_Midea_MSR1-24CRN1
+SAMSUNG,Samsung AR09TXHQBWKXFE,1449,9000,15-22,Split,Yes,A++,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\SAMSUNG_Samsung_AR09TXHQBWKXFE
+SAMSUNG,Samsung AR12TXHQBWKXFE,1859,12000,25-35,Split,Yes,A++,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\SAMSUNG_Samsung_AR12TXHQBWKXFE
+SAMSUNG,Samsung AR12TYHQBWKXFE,1899,12000,25-35,Split,Yes,A++,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\SAMSUNG_Samsung_AR12TYHQBWKXFE
+SAMSUNG,Samsung AR18TXHQBWKXFE,2499,18000,35-45,Split,Yes,A++,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\SAMSUNG_Samsung_AR18TXHQBWKXFE
+SAMSUNG,Samsung AR18TYHQBWKXFE,2549,18000,35-45,Split,Yes,A++,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\SAMSUNG_Samsung_AR18TYHQBWKXFE
+TCL,TCL TAC-12CHSA_XAB1,1399,12000,25-35,Split,No,A,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\TCL_TCL_TAC-12CHSA_XAB1
+TCL,TCL TAC-18CHSA_XAB1,1919,18000,35-45,Split,No,A,White,3,C:\Users\marye\Desktop\PFEMASTER\core_ai_setup\exploration\air_conditioner_dataset\TCL_TCL_TAC-18CHSA_XAB1

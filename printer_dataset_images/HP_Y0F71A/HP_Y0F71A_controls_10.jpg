@@ -1,0 +1,3875 @@
+<!-- SEO Meta Content -->
+
+<!DOCTYPE html>
+
+<html
+    lang="id"
+    dir="ltr"
+>
+    <head>
+
+        
+
+        <title>Satu Tech</title>
+
+        <meta charset="UTF-8">
+
+        <meta
+            http-equiv="X-UA-Compatible"
+            content="IE=edge"
+        >
+        <meta
+            http-equiv="content-language"
+            content="id"
+        >
+
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1"
+        >
+        <meta
+            name="base-url"
+            content="https://www.satu-tech.com"
+        >
+        <meta
+            name="currency"
+            content="{&quot;id&quot;:1,&quot;code&quot;:&quot;IDR&quot;,&quot;name&quot;:&quot;Indonesian Rupiah&quot;,&quot;symbol&quot;:&quot;Rp&quot;,&quot;decimal&quot;:2,&quot;group_separator&quot;:&quot;,&quot;,&quot;decimal_separator&quot;:&quot;.&quot;,&quot;currency_position&quot;:&quot;left_with_space&quot;,&quot;created_at&quot;:null,&quot;updated_at&quot;:&quot;2025-05-23T03:03:48.000000Z&quot;}"
+        >
+
+            <meta name="title" content="Satu Tech" />
+
+    <meta name="description" content="Satu Tech meta description" />
+
+    <meta name="keywords" content="Satu Tech meta keyword" />
+
+    <meta name="google-site-verification" content="xFxaVLCnFigLMKrlWOx5KF_igx-TVJw_Zj38TzwvsRc" />
+
+        <link
+            rel="icon"
+            sizes="16x16"
+            href="https://www.satu-tech.com/themes/shop/default/build/assets/Header-Web-min.ico"
+        />
+
+        <link rel="preload" as="style" href="https://www.satu-tech.com/themes/shop/default/build/assets/app-2080e278.css" /><link rel="preload" as="style" href="https://www.satu-tech.com/themes/shop/default/build/assets/app-05f8acf7.css" /><link rel="modulepreload" href="https://www.satu-tech.com/themes/shop/default/build/assets/app-b30607f0.js" /><link rel="stylesheet" href="https://www.satu-tech.com/themes/shop/default/build/assets/app-2080e278.css" /><link rel="stylesheet" href="https://www.satu-tech.com/themes/shop/default/build/assets/app-05f8acf7.css" /><script type="module" src="https://www.satu-tech.com/themes/shop/default/build/assets/app-b30607f0.js"></script>
+        <link
+            rel="preload"
+            href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap"
+            as="style"
+        >
+        <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap"
+        >
+
+        <link
+            rel="preload"
+            href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap"
+            as="style"
+        >
+        <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap"
+        >
+
+                                <style>
+                            .home-offer h1 {display: block;font-weight: 500;text-align: center;font-size: 22px;font-family: DM Serif Display;background-color: #E8EDFE;padding-top: 20px;padding-bottom: 20px;}@media (max-width:768px){.home-offer h1 {font-size:18px;padding-top: 10px;padding-bottom: 10px;}@media (max-width:525px) {.home-offer h1 {font-size:14px;padding-top: 6px;padding-bottom: 6px;}}
+                        </style>
+                                            <style>
+                            .top-collection-container {overflow: hidden;}.top-collection-header {padding-left: 15px;padding-right: 15px;text-align: center;font-size: 70px;line-height: 90px;color: #060C3B;margin-top: 80px;}.top-collection-header h2 {max-width: 595px;margin-left: auto;margin-right: auto;font-family: DM Serif Display;}.top-collection-grid {display: flex;flex-wrap: wrap;gap: 32px;justify-content: center;margin-top: 60px;width: 100%;margin-right: auto;margin-left: auto;padding-right: 90px;padding-left: 90px;}.top-collection-card {position: relative;background: #f9fafb;overflow:hidden;border-radius:20px;}.top-collection-card img {border-radius: 16px;max-width: 100%;text-indent:-9999px;transition: transform 300ms ease;transform: scale(1);}.top-collection-card:hover img {transform: scale(1.05);transition: all 300ms ease;}.top-collection-card h3 {color: #060C3B;font-size: 30px;font-family: DM Serif Display;transform: translateX(-50%);width: max-content;left: 50%;bottom: 30px;position: absolute;margin: 0;font-weight: inherit;}@media not all and (min-width: 525px) {.top-collection-header {margin-top: 28px;font-size: 20px;line-height: 1.5;}.top-collection-grid {gap: 10px}}@media not all and (min-width: 768px) {.top-collection-header {margin-top: 30px;font-size: 28px;line-height: 3;}.top-collection-header h2 {line-height:2; margin-bottom:20px;} .top-collection-grid {gap: 14px}} @media not all and (min-width: 1024px) {.top-collection-grid {padding-left: 30px;padding-right: 30px;}}@media (max-width: 768px) {.top-collection-grid { row-gap:15px; column-gap:0px;justify-content: space-between;margin-top: 0px;} .top-collection-card{width:48%} .top-collection-card img {width:100%;} .top-collection-card h3 {font-size:24px; bottom: 16px;}}@media (max-width:520px) { .top-collection-grid{padding-left: 15px;padding-right: 15px;} .top-collection-card h3 {font-size:18px; bottom: 10px;}}
+                        </style>
+                                            <style>
+                            .section-gap{margin-top:80px}.direction-ltr{direction:ltr}.direction-rtl{direction:rtl}.inline-col-wrapper{display:grid;grid-template-columns:auto 1fr;grid-gap:60px;align-items:center}.inline-col-wrapper .inline-col-image-wrapper{overflow:hidden}.inline-col-wrapper .inline-col-image-wrapper img{max-width:100%;height:auto;border-radius:16px;text-indent:-9999px}.inline-col-wrapper .inline-col-content-wrapper{display:flex;flex-wrap:wrap;gap:20px;max-width:464px}.inline-col-wrapper .inline-col-content-wrapper .inline-col-title{max-width:442px;font-size:60px;font-weight:400;color:#060c3b;line-height:70px;font-family:DM Serif Display;margin:0}.inline-col-wrapper .inline-col-content-wrapper .inline-col-description{margin:0;font-size:18px;color:#6e6e6e;font-family:Poppins}@media (max-width:991px){.inline-col-wrapper{grid-template-columns:1fr;grid-gap:16px}.inline-col-wrapper .inline-col-content-wrapper{gap:10px}} @media (max-width:768px){.inline-col-wrapper .inline-col-image-wrapper img {width:100%;} .inline-col-wrapper .inline-col-content-wrapper .inline-col-title{font-size:28px !important;line-height:normal !important}} @media (max-width:525px){.inline-col-wrapper .inline-col-content-wrapper .inline-col-title{font-size:20px !important;} .inline-col-description{font-size:16px} .inline-col-wrapper{grid-gap:10px}}
+                        </style>
+                                            <style>
+                            .section-game {overflow: hidden;}.section-title,.section-title h2{font-weight:400;font-family:DM Serif Display}.section-title{margin-top:80px;padding-left:15px;padding-right:15px;text-align:center;line-height:90px}.section-title h2{font-size:70px;color:#060c3b;max-width:595px;margin:auto}.collection-card-wrapper{display:flex;flex-wrap:wrap;justify-content:center;gap:30px}.collection-card-wrapper .single-collection-card{position:relative}.collection-card-wrapper .single-collection-card img{border-radius:16px;background-color:#f5f5f5;max-width:100%;height:auto;text-indent:-9999px}.collection-card-wrapper .single-collection-card .overlay-text{font-size:50px;font-weight:400;max-width:234px;font-style:italic;color:#060c3b;font-family:DM Serif Display;position:absolute;bottom:30px;left:30px;margin:0}@media (max-width:1024px){.section-title{padding:0 30px}}@media (max-width:991px){.collection-card-wrapper{flex-wrap:wrap}}@media (max-width:768px) {.collection-card-wrapper .single-collection-card .overlay-text{font-size:32px; bottom:20px}.section-title{margin-top:32px}.section-title h2{font-size:28px;line-height:normal}} @media (max-width:525px){.collection-card-wrapper .single-collection-card .overlay-text{font-size:18px; bottom:10px} .section-title{margin-top:28px}.section-title h2{font-size:20px;} .collection-card-wrapper{gap:10px; 15px; row-gap:15px; column-gap:0px;justify-content: space-between;margin-top: 15px;} .collection-card-wrapper .single-collection-card {width:48%;}}
+                        </style>
+                                            <style>
+                            .section-gap{margin-top:80px}.direction-ltr{direction:ltr}.direction-rtl{direction:rtl}.inline-col-wrapper{display:grid;grid-template-columns:auto 1fr;grid-gap:60px;align-items:center}.inline-col-wrapper .inline-col-image-wrapper{overflow:hidden}.inline-col-wrapper .inline-col-image-wrapper img{max-width:100%;height:auto;border-radius:16px;text-indent:-9999px}.inline-col-wrapper .inline-col-content-wrapper{display:flex;flex-wrap:wrap;gap:20px;max-width:464px}.inline-col-wrapper .inline-col-content-wrapper .inline-col-title{max-width:442px;font-size:60px;font-weight:400;color:#060c3b;line-height:70px;font-family:DM Serif Display;margin:0}.inline-col-wrapper .inline-col-content-wrapper .inline-col-description{margin:0;font-size:18px;color:#6e6e6e;font-family:Poppins}@media (max-width:991px){.inline-col-wrapper{grid-template-columns:1fr;grid-gap:16px}.inline-col-wrapper .inline-col-content-wrapper{gap:10px}}@media (max-width:768px) {.inline-col-wrapper .inline-col-image-wrapper img {max-width:100%;}.inline-col-wrapper .inline-col-content-wrapper{max-width:100%;justify-content:center; text-align:center} .section-gap{padding:0 30px; gap:20px;margin-top:24px} .bold-collections{margin-top:32px;}} @media (max-width:525px){.inline-col-wrapper .inline-col-content-wrapper{gap:10px} .inline-col-wrapper .inline-col-content-wrapper .inline-col-title{font-size:20px;line-height:normal} .section-gap{padding:0 15px; gap:15px;margin-top:10px} .bold-collections{margin-top:28px;}  .inline-col-description{font-size:16px !important} .inline-col-wrapper{grid-gap:15px}
+                        </style>
+                    
+                                
+        <style>
+            
+        </style>
+
+        
+
+    </head>
+
+    <body>
+        
+
+        <a
+            href="#main"
+            class="skip-to-main-content-link"
+        >
+            Skip to main content
+        </a>
+
+        <div id="app">
+            <!-- Flash Message Blade Component -->
+            <v-flash-group ref='flashes'></v-flash-group>
+
+
+            <!-- Confirm Modal Blade Component -->
+            <v-modal-confirm ref="confirmModal"></v-modal-confirm>
+
+
+            <!-- Page Header Blade Component -->
+                            <header class="shadow-gray sticky top-0 z-10 bg-white shadow-sm max-lg:shadow-none">
+    <div class="flex flex-wrap max-lg:hidden">
+    <div class="flex min-h-[78px] w-full justify-between border border-b border-l-0 border-r-0 border-t-0 px-[60px] max-1180:px-8">
+    <!--
+        This section will provide categories for the first, second, and third levels. If
+        additional levels are required, users can customize them according to their needs.
+    -->
+    <!-- Left Nagivation Section -->
+    <div class="flex items-center gap-x-10 max-[1180px]:gap-x-5">
+        
+
+        <a
+            href="https://www.satu-tech.com"
+            aria-label="Bagisto"
+        >
+            <img
+                src="https://www.satu-tech.com/themes/shop/default/build/assets/logo-satu-tech.svg"
+                width="131"
+                height="29"
+                alt="SatuTech"
+            >
+        </a>
+
+        
+
+        
+
+        <v-desktop-category>
+            <div class="flex items-center gap-5">
+                <span
+                    class="shimmer h-6 w-20 rounded"
+                    role="presentation"
+                ></span>
+
+                <span
+                    class="shimmer h-6 w-20 rounded"
+                    role="presentation"
+                ></span>
+
+                <span
+                    class="shimmer h-6 w-20 rounded"
+                    role="presentation"
+                ></span>
+            </div>
+        </v-desktop-category>
+
+        
+
+        <v-drawer
+    
+    is-active=""
+    position="left"
+    width="50%"
+>
+            <template v-slot:toggle>
+            <span class="icon-hamburger cursor-pointer text-2xl"></span>
+        </template>
+    
+            <template v-slot:header="{ close }">
+            <div class="grid gap-y-2.5 p-6 pb-5 max-md:gap-y-1.5 max-md:border-b max-md:border-zinc-200 max-md:p-4 max-md:gap-y-1 max-md:font-semibold">
+                <div class="flex items-center justify-between">
+                        <a href="https://www.satu-tech.com">
+                            <img
+                                src="https://www.satu-tech.com/themes/shop/default/build/assets/logo-satu-tech.svg"
+                                alt="SatuTech"
+                                width="131"
+                                height="29"
+                            >
+                        </a>
+                    </div>
+
+                <div class="absolute top-5 max-sm:top-4 ltr:right-5 rtl:left-5">
+                    <span
+                        class="icon-cancel cursor-pointer text-3xl max-md:text-2xl"
+                        @click="close"
+                    >
+                    </span>
+                </div>
+            </div>
+        </template>
+    
+            <template v-slot:content>
+            <div class="flex-1 overflow-auto px-6 max-md:px-4">
+                <!-- Account Profile Hero Section -->
+                    <div class="mb-4 grid grid-cols-[auto_1fr] items-center gap-4 rounded-xl border border-zinc-200 p-2.5 max-md:mt-4">
+                        <div>
+                            <img
+                                src="https://www.satu-tech.com/themes/shop/default/build/assets/user-placeholder-4670a452.png"
+                                class="h-[60px] w-[60px] rounded-full max-md:rounded-full"
+                            >
+                        </div>
+
+                                                    <a
+                                href="https://www.satu-tech.com/customer/login"
+                                class="flex text-base font-medium"
+                            >
+                                Sign up or Login
+                                <i class="icon-double-arrow text-2xl ltr:ml-2.5 rtl:mr-2.5"></i>
+                            </a>
+                        
+                                            </div>
+
+                    
+
+                    <!-- Mobile category view -->
+                    <v-mobile-category></v-mobile-category>
+            </div>
+        </template>
+    
+            <template v-slot:footer>
+            <div class="pb-8 max-md:pb-2">
+                
+            </div>
+        </template>
+    </v-drawer>
+
+    </div>
+
+    <!-- Right Nagivation Section -->
+    <div class="flex items-center gap-x-9 max-[1100px]:gap-x-6 max-lg:gap-x-8">
+
+        
+
+        <!-- Search Bar Container -->
+        <div class="relative w-full">
+            <form
+                action="https://www.satu-tech.com/search"
+                class="flex max-w-[445px] items-center"
+                role="search"
+            >
+                <label
+                    for="organic-search"
+                    class="sr-only"
+                >
+                    Search                </label>
+
+                <div class="icon-search pointer-events-none absolute top-2.5 flex items-center text-xl ltr:left-3 rtl:right-3"></div>
+
+                <input
+                    type="text"
+                    name="query"
+                    value=""
+                    class="block w-full rounded-lg border border-transparent bg-zinc-100 px-11 py-3 text-xs font-medium text-gray-900 transition-all hover:border-gray-400 focus:border-gray-400"
+                    minlength="0"
+                    maxlength="1000"
+                    placeholder="Search products here"
+                    aria-label="Search products here"
+                    aria-required="true"
+                    pattern="[^\\]+"
+                    required
+                >
+
+                <button
+                    type="submit"
+                    class="hidden"
+                    aria-label="Submit"
+                >
+                </button>
+
+                                    <v-image-search>
+    <button
+        type="button"
+        class="icon-camera absolute top-3 flex items-center text-xl max-sm:top-2.5 ltr:right-3 ltr:pr-3 max-md:ltr:right-1.5 rtl:left-3 rtl:pl-3 max-md:rtl:left-1.5"
+        aria-label="Search"
+    >
+    </button>
+</v-image-search>
+
+                            </form>
+        </div>
+
+        
+
+        <!-- Right Navigation Links -->
+        <div class="mt-1.5 flex gap-x-8 max-[1100px]:gap-x-6 max-lg:gap-x-8">
+
+            
+
+            <!-- Compare -->
+                            <a
+                    href="https://www.satu-tech.com/compare"
+                    aria-label="Compare"
+                >
+                    <span
+                        class="icon-compare inline-block cursor-pointer text-2xl"
+                        role="presentation"
+                    ></span>
+                </a>
+            
+            
+
+            
+
+            <!-- Mini cart -->
+                            <!-- Mini Cart Vue Component -->
+<v-mini-cart>
+    <span
+        class="icon-cart cursor-pointer text-2xl"
+        role="button"
+        aria-label="Shopping Cart"
+    ></span>
+</v-mini-cart>
+
+            
+            
+
+            
+
+            <!-- user profile -->
+            <v-dropdown position="bottom-right" class="relative">
+            <span
+                        class="icon-users inline-block cursor-pointer text-2xl"
+                        role="button"
+                        aria-label="Profile"
+                        tabindex="0"
+                    ></span>
+
+        <template v-slot:toggle>
+            <span
+                        class="icon-users inline-block cursor-pointer text-2xl"
+                        role="button"
+                        aria-label="Profile"
+                        tabindex="0"
+                    ></span>
+        </template>
+    
+            <template v-slot:content>
+            <div class="p-5">
+                <div class="grid gap-2.5">
+                            <p class="font-dmserif text-xl">
+                                Welcome Guest                            </p>
+
+                            <p class="text-sm">
+                                Manage Cart, Orders & Wishlist                            </p>
+                        </div>
+
+                        <p class="py-2px mt-3 w-full border border-zinc-200"></p>
+
+                        
+                        
+                        <div class="mt-6 flex gap-4">
+                            
+
+                            <a
+                                href="https://www.satu-tech.com/customer/login"
+                                class="primary-button m-0 mx-auto block w-max rounded-2xl px-7 text-center text-base max-md:rounded-lg ltr:ml-0 rtl:mr-0"
+                            >
+                                Sign In                            </a>
+
+                            <a
+                                href="https://www.satu-tech.com/customer/register"
+                                class="secondary-button m-0 mx-auto block w-max rounded-2xl border-2 px-7 text-center text-base max-md:rounded-lg max-md:py-3 ltr:ml-0 rtl:mr-0"
+                            >
+                                Sign Up                            </a>
+                            
+                            
+                        </div>
+            </div>
+        </template>
+    
+    </v-dropdown>
+
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+</div>
+
+    <!--
+    This code needs to be refactored to reduce the amount of PHP in the Blade
+    template as much as possible.
+-->
+
+<div class="flex flex-wrap gap-4 px-4 pb-4 pt-6 shadow-sm lg:hidden">
+    <div class="flex w-full items-center justify-between">
+        <!-- Left Navigation -->
+        <div class="flex items-center gap-x-1.5">
+            
+
+            <v-drawer
+    
+    is-active=""
+    position="left"
+    width="100%"
+>
+            <template v-slot:toggle>
+            <span class="icon-hamburger cursor-pointer text-2xl"></span>
+        </template>
+    
+            <template v-slot:header="{ close }">
+            <div class="grid gap-y-2.5 p-6 pb-5 max-md:gap-y-1.5 max-md:border-b max-md:border-zinc-200 max-md:p-4 max-md:gap-y-1 max-md:font-semibold">
+                <div class="flex items-center justify-between">
+                        <a href="https://www.satu-tech.com">
+                            <img
+                                src="https://www.satu-tech.com/themes/shop/default/build/assets/logo-satu-tech.svg"
+                                alt="SatuTech"
+                                width="131"
+                                height="29"
+                            >
+                        </a>
+                    </div>
+
+                <div class="absolute top-5 max-sm:top-4 ltr:right-5 rtl:left-5">
+                    <span
+                        class="icon-cancel cursor-pointer text-3xl max-md:text-2xl"
+                        @click="close"
+                    >
+                    </span>
+                </div>
+            </div>
+        </template>
+    
+            <template v-slot:content>
+            <div class="flex-1 overflow-auto px-6 max-md:px-4">
+                <!-- Account Profile Hero Section -->
+                    <div class="mb-4 grid grid-cols-[auto_1fr] items-center gap-4 rounded-xl border border-zinc-200 p-2.5 max-md:mt-4">
+                        <div>
+                            <img
+                                src="https://www.satu-tech.com/themes/shop/default/build/assets/user-placeholder-4670a452.png"
+                                class="h-[60px] w-[60px] rounded-full max-md:rounded-full"
+                            >
+                        </div>
+
+                                                    <a
+                                href="https://www.satu-tech.com/customer/login"
+                                class="flex text-base font-medium"
+                            >
+                                Sign up or Login
+                                <i class="icon-double-arrow text-2xl ltr:ml-2.5 rtl:mr-2.5"></i>
+                            </a>
+                        
+                                            </div>
+
+                    
+
+                    <!-- Mobile category view -->
+                    <v-mobile-category></v-mobile-category>
+            </div>
+        </template>
+    
+            <template v-slot:footer>
+            <div class="pb-8 max-md:pb-2">
+                
+            </div>
+        </template>
+    </v-drawer>
+
+
+            
+
+            
+            <!--logo untuk mobile-->
+            <a
+                href="https://www.satu-tech.com"
+                class="max-h-[30px]"
+                aria-label="Bagisto"
+            >
+                <img
+                    src="https://www.satu-tech.com/themes/shop/default/build/assets/logo-satu-tech.svg"
+                    alt="SatuTech"
+                    width="50"
+                    height="29"
+                >
+            </a>
+            
+            
+        </div>
+
+        <!-- Right Navigation -->
+        <div>
+            <div class="flex items-center gap-x-5 max-md:gap-x-4">
+                
+
+                                    <a
+                        href="https://www.satu-tech.com/compare"
+                        aria-label="Compare"
+                    >
+                        <span class="icon-compare cursor-pointer text-2xl"></span>
+                    </a>
+                
+                
+
+                
+
+                                    <!-- Mini Cart Vue Component -->
+<v-mini-cart>
+    <span
+        class="icon-cart cursor-pointer text-2xl"
+        role="button"
+        aria-label="Shopping Cart"
+    ></span>
+</v-mini-cart>
+
+                
+                
+
+                <!-- For Large screens -->
+                <div class="max-md:hidden">
+                    <v-dropdown position="bottom-right" class="relative">
+            <span class="icon-users cursor-pointer text-2xl"></span>
+
+        <template v-slot:toggle>
+            <span class="icon-users cursor-pointer text-2xl"></span>
+        </template>
+    
+            <template v-slot:content>
+            <div class="p-5">
+                <div class="grid gap-2.5">
+                                    <p class="font-dmserif text-xl">
+                                        Welcome Guest                                    </p>
+    
+                                    <p class="text-sm">
+                                        Manage Cart, Orders & Wishlist                                    </p>
+                                </div>
+    
+                                <p class="py-2px mt-3 w-full border border-zinc-200"></p>
+    
+                                
+
+                                <div class="mt-6 flex gap-4">
+                                    
+
+                                    <a
+                                        href="https://www.satu-tech.com/customer/login"
+                                        class="m-0 mx-auto block w-max cursor-pointer rounded-2xl bg-navyBlue px-7 py-4 text-center text-base font-medium text-white ltr:ml-0 rtl:mr-0"
+                                    >
+                                        Sign In                                    </a>
+    
+                                    <a
+                                        href="https://www.satu-tech.com/customer/register"
+                                        class="m-0 mx-auto block w-max cursor-pointer rounded-2xl border-2 border-navyBlue bg-white px-7 py-3.5 text-center text-base font-medium text-navyBlue ltr:ml-0 rtl:mr-0"
+                                    >
+                                        Sign Up                                    </a>
+    
+                                    
+                                </div>
+            </div>
+        </template>
+    
+    </v-dropdown>
+
+                </div>
+
+                <!-- For Medium and small screen --> 
+                <div class="md:hidden">
+                                            <a
+                            href="https://www.satu-tech.com/customer/login"
+                            aria-label="Account"
+                        >
+                            <span class="icon-users cursor-pointer text-2xl"></span>
+                        </a>
+                    
+                    <!-- Customers Dropdown -->
+                                    </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <!-- Serach Catalog Form -->
+    <form action="https://www.satu-tech.com/search" class="flex w-full items-center">
+        <label 
+            for="organic-search" 
+            class="sr-only"
+        >
+            Search        </label>
+
+        <div class="relative w-full">
+            <div class="icon-search pointer-events-none absolute top-3 flex items-center text-2xl max-md:text-xl max-sm:top-2.5 ltr:left-3 rtl:right-3"></div>
+
+            <input
+                type="text"
+                class="block w-full rounded-xl border border-['#E3E3E3'] px-11 py-3.5 text-sm font-medium text-gray-900 max-md:rounded-lg max-md:px-10 max-md:py-3 max-md:font-normal max-sm:text-xs"
+                name="query"
+                value=""
+                placeholder="Search products here"
+                required
+            >
+
+                            <v-image-search>
+    <button
+        type="button"
+        class="icon-camera absolute top-3 flex items-center text-xl max-sm:top-2.5 ltr:right-3 ltr:pr-3 max-md:ltr:right-1.5 rtl:left-3 rtl:pl-3 max-md:rtl:left-1.5"
+        aria-label="Search"
+    >
+    </button>
+</v-image-search>
+
+                    </div>
+    </form>
+
+    
+
+</div>
+
+</header>
+
+
+            
+            
+
+            <!-- Page Content Blade Component -->
+            <main id="main" class="bg-white">
+                <!-- Page Title -->
+         
+    <!-- Loop over the theme customization -->
+            
+        <!-- Static content -->
+                        <!-- Image Carousel -->
+                <v-carousel :images="[{&quot;image&quot;:&quot;storage\/theme\/1\/K82sOvU5wqXoIzzphHcOofSf7iVdP9UJ2YEferUR.webp&quot;,&quot;link&quot;:&quot;&quot;,&quot;title&quot;:&quot;banner-printer&quot;},{&quot;image&quot;:&quot;storage\/theme\/1\/EzeQ9hGy5CvftexQxG4go4byFMicICGNC3OfkYtW.webp&quot;,&quot;link&quot;:&quot;&quot;,&quot;title&quot;:&quot;banner-sao-web&quot;}]">
+    <div class="overflow-hidden">
+        <div class="shimmer aspect-[2.743/1] max-h-screen w-screen"></div>
+    </div>
+</v-carousel>
+
+
+                            
+        <!-- Static content -->
+                        <!-- push style -->
+                                                    
+                <!-- render html -->
+                                    <div class="home-offer"><h1>Get UPTO 40% OFF on your 1st order SHOP NOW</h1></div>
+                
+                            
+        <!-- Static content -->
+                        <!-- Product Carousel -->
+                <v-products-carousel
+    src="https://www.satu-tech.com/api/products?sort=created_at-desc&amp;limit=24&amp;new=1"
+    title="New Products"
+    navigation-link="https://www.satu-tech.com/search?sort=created_at-desc&amp;limit=24&amp;new=1"
+>
+    <div class="container mt-20 max-lg:px-8 max-md:mt-8 max-sm:mt-7 max-sm:!px-4">
+    <div class="flex items-center justify-between">
+        <h3 class="shimmer h-8 w-[200px] max-sm:h-7"></h3>
+
+        <div class="flex items-center justify-between gap-8 max-lg:hidden">
+            <span
+                class="shimmer inline-block h-6 w-6"
+                role="presentation"
+            ></span>
+
+            <span
+                class="shimmer inline-block h-6 w-6 max-sm:hidden"
+                role="presentation"
+            ></span>
+        </div>
+
+        <div class="shimmer h-7 w-24 max-sm:h-5 max-sm:w-[68px] lg:hidden"></div>
+    </div>
+
+    <div class="scrollbar-hide mt-10 flex gap-8 overflow-auto pb-2.5 max-md:mt-5 max-sm:gap-4">
+        <div class="grid gap-2.5 relative w-full max-w-[291px] max-sm:grid-cols-1 min-w-[291px] max-md:h-fit max-md:min-w-56 max-sm:min-w-[192px]">
+        <div class="shimmer relative w-full rounded max-sm:!rounded-lg">
+            <div class="after:content-[' '] relative after:block after:pb-[calc(100%+9px)]"></div>
+        </div>
+
+        <div class="grid content-start gap-2.5 max-sm:gap-1">
+            <p class="shimmer h-4 w-3/4"></p>
+            <p class="shimmer h-4 w-[55%]"></p>
+
+            <!-- Needs to implement that in future -->
+            <div class="mt-3 flex hidden gap-4">
+                <span class="shimmer block h-[30px] w-[30px] rounded-full"></span>
+                <span class="shimmer block h-[30px] w-[30px] rounded-full"></span>
+            </div>
+        </div>
+    </div>
+    <div class="grid gap-2.5 relative w-full max-w-[291px] max-sm:grid-cols-1 min-w-[291px] max-md:h-fit max-md:min-w-56 max-sm:min-w-[192px]">
+        <div class="shimmer relative w-full rounded max-sm:!rounded-lg">
+            <div class="after:content-[' '] relative after:block after:pb-[calc(100%+9px)]"></div>
+        </div>
+
+        <div class="grid content-start gap-2.5 max-sm:gap-1">
+            <p class="shimmer h-4 w-3/4"></p>
+            <p class="shimmer h-4 w-[55%]"></p>
+
+            <!-- Needs to implement that in future -->
+            <div class="mt-3 flex hidden gap-4">
+                <span class="shimmer block h-[30px] w-[30px] rounded-full"></span>
+                <span class="shimmer block h-[30px] w-[30px] rounded-full"></span>
+            </div>
+        </div>
+    </div>
+    <div class="grid gap-2.5 relative w-full max-w-[291px] max-sm:grid-cols-1 min-w-[291px] max-md:h-fit max-md:min-w-56 max-sm:min-w-[192px]">
+        <div class="shimmer relative w-full rounded max-sm:!rounded-lg">
+            <div class="after:content-[' '] relative after:block after:pb-[calc(100%+9px)]"></div>
+        </div>
+
+        <div class="grid content-start gap-2.5 max-sm:gap-1">
+            <p class="shimmer h-4 w-3/4"></p>
+            <p class="shimmer h-4 w-[55%]"></p>
+
+            <!-- Needs to implement that in future -->
+            <div class="mt-3 flex hidden gap-4">
+                <span class="shimmer block h-[30px] w-[30px] rounded-full"></span>
+                <span class="shimmer block h-[30px] w-[30px] rounded-full"></span>
+            </div>
+        </div>
+    </div>
+    <div class="grid gap-2.5 relative w-full max-w-[291px] max-sm:grid-cols-1 min-w-[291px] max-md:h-fit max-md:min-w-56 max-sm:min-w-[192px]">
+        <div class="shimmer relative w-full rounded max-sm:!rounded-lg">
+            <div class="after:content-[' '] relative after:block after:pb-[calc(100%+9px)]"></div>
+        </div>
+
+        <div class="grid content-start gap-2.5 max-sm:gap-1">
+            <p class="shimmer h-4 w-3/4"></p>
+            <p class="shimmer h-4 w-[55%]"></p>
+
+            <!-- Needs to implement that in future -->
+            <div class="mt-3 flex hidden gap-4">
+                <span class="shimmer block h-[30px] w-[30px] rounded-full"></span>
+                <span class="shimmer block h-[30px] w-[30px] rounded-full"></span>
+            </div>
+        </div>
+    </div>
+    </div>
+
+            <a
+            class="shimmer mx-auto mt-16 block h-12 w-[150.172px] rounded-2xl max-md:hidden"
+            role="button"
+            aria-label="Show more products"
+        ></a>
+    </div>
+</v-products-carousel>
+
+
+                            
+        <!-- Static content -->
+                        <!-- push style -->
+                                                    
+                <!-- render html -->
+                                    <div class="top-collection-container">
+    <div class="top-collection-header">
+         <h2>Laptop !!!</h2>
+
+    </div>
+    <div class="top-collection-grid container">
+        <div class="top-collection-card">
+            <img class="lazy" data-src="storage/theme/5/xafvfVJBuA7KYolQYevC4equSeBpCNZyxMLTPX9F.webp" width="396" height="396" alt="The game with our new additions!">
+            <!-- <h3>Our Collections</h3> -->
+        </div>
+        <div class="top-collection-card">
+          <a href="https://google.com">
+            <img class="lazy" data-src="storage/theme/5/tGYoze2mr0rkxe5VTkHTYdlmXn1ZlKKqLFVqvHOx.webp" width="396" height="396" alt="The game with our new additions!">
+            </a>
+        </div>
+        <div class="top-collection-card">
+            <img class="lazy" data-src="storage/theme/5/OQZpVZF8mce4FwMBS7u2vYkIqKvN1ZnqRK98hSpJ.webp" width="396" height="396" alt="The game with our new additions!">
+        </div>
+        <div class="top-collection-card">
+            <img class="lazy" data-src="storage/theme/5/4d5dSrbLgrQfG171l3ImHC70a7hFf7OTY4HmijPM.webp" width="396" height="396" alt="The game with our new additions!">
+        </div>
+        <div class="top-collection-card">
+            <img class="lazy" data-src="storage/theme/5/U5xsSg3u0ccgPNd9xSEoLjXCxozbOVbcbQloivFk.webp" width="396" height="396" alt="The game with our new additions!">
+        </div>
+    </div>
+</div>
+                
+                            
+        <!-- Static content -->
+                        <!-- push style -->
+                                                    
+                <!-- render html -->
+                                    <div class="section-gap bold-collections container">
+    <div class="inline-col-wrapper">
+        <div class="inline-col-image-wrapper">
+          <img class="lazy" data-src="storage/theme/6/xLJzXELrPDiqL7ZzwEp2effHfEPxOoHtEOtKxhIV.webp" width="632" height="510" alt="Get Ready for our new Bold Collections!">
+        </div>
+        <div class="inline-col-content-wrapper">
+             <h2 class="inline-col-title"> Small Medium Business! </h2> 
+            <p class="inline-col-description">Cari Laptop Bisnis Andal?</p>
+            <p class="inline-col-description">Dell Latitude 3420 - i5 Solusinya! 💼</p>
+            <p class="inline-col-description">🚀 Performa Kuat: Didukung prosesor Intel Core i5</p>
+            <p class="inline-col-description">📏 Desain Ringkas: Bobot hanya 1.52 kg</p>
+            <p class="inline-col-description">💻 Visual Nyata: Layar 14 inci</p>
+            <p class="inline-col-description">🌟 #DellLatitude #LaptopBisnis #PerformaMaksimal #ProduktivitasTinggi</p>
+            <!-- <button class="primary-button max-md:rounded-lg max-md:px-4 max-md:py-2.5 max-md:text-sm">View Collections</button> -->
+        </div>
+    </div>
+</div>
+                
+                            
+        <!-- Static content -->
+                        <!-- push style -->
+                                                    
+                <!-- render html -->
+                                    <div class="section-game">
+    <div class="section-title">
+         <h2>Produk Kami !!!</h2> 
+    </div>
+    <div class="section-gap container">
+        <div class="collection-card-wrapper">
+            <div class="single-collection-card">
+              <img class="lazy" data-src="storage/theme/8/6BPeRgSP6bbFPRIj6f8foYbVGuuaLiZSf73pRVG4.webp" width="396" height="396" alt="The game with our new additions!">
+                <!-- <h3 class="overlay-text">Our Collections</h3> -->
+            </div>
+            <div class="single-collection-card">
+              <img class="lazy" data-src="storage/theme/8/zZwkFILX2OJ1s2wFhgSYUvVtJHAcgSxkfldV40si.webp" width="396" height="396" alt="The game with our new additions!">
+            </div>
+            <div class="single-collection-card">
+              <img class="lazy" data-src="storage/theme/8/TxgtL5ZbdOSD9E3V1UJwU0sIDnhXqHKXTOnDUopE.webp" width="396" height="396" alt="The game with our new additions!">
+            </div>
+            <div class="single-collection-card">
+              <img class="lazy" data-src="storage/theme/8/KydS5BZ3X3j2xubCXH8QuVbLDuxn1NLTUnyojx6P.webp" width="396" height="396" alt="The game with our new additions!">
+            </div>
+            <div class="single-collection-card">
+              <img class="lazy" data-src="storage/theme/8/rbk44mV16z62OOI2jxeZo2yjKjeEsBNo2vsjvn5l.webp" width="396" height="396" alt="The game with our new additions!">
+            </div>
+            <div class="single-collection-card">
+              <img class="lazy" data-src="storage/theme/8/8dgcn9i7l5tGflWLMaMEZzk24mdxHXsfIubXj6sd.webp" width="396" height="396" alt="The game with our new additions!">
+            </div>
+        </div>
+    </div>
+</div>
+                
+                            
+        <!-- Static content -->
+                        <!-- push style -->
+                                                    
+                <!-- render html -->
+                                    <div class="section-gap bold-collections container">
+    <div class="inline-col-wrapper direction-rtl">
+        <div class="inline-col-image-wrapper">
+          <img class="lazy" data-src="storage/theme/10/qRy7AUSyTlVnGDAy2gMpGvk7FSlLB3rXX0zvGSnO.webp" width="632" height="510" alt="Get Ready for our new Bold Collections!">
+        </div>
+        <div class="inline-col-content-wrapper direction-ltr">
+             <h3 class="inline-col-title"> Laptop MSI Modern 15 A5M</h3> 
+            <p class="inline-col-description">Tingkatkan produktivitas Anda dengan <b>MSI Modern 15 A5M</b>, solusi terbaik untuk profesional dan bisnis modern. Cocok untuk mobilitas tinggi dengan performa tak tertandingi! 🚀</p>
+            <p class="inline-col-description">#MSIModern15 #LaptopBisnis #PerformaTinggi #Ryzen7</p>
+            <!-- <button class="primary-button max-md:rounded-lg max-md:px-4 max-md:py-2.5 max-md:text-sm">View Collections</button> -->
+        </div>
+    </div>
+</div>
+                
+                            
+        <!-- Static content -->
+                    
+        <!-- Static content -->
+            </main>
+
+            
+
+
+            <!-- Page Services Blade Component -->
+                            <!--
+    The ThemeCustomizationRepository repository is injected directly here because there is no way
+    to retrieve it from the view composer, as this is an anonymous component.
+-->
+
+
+<!-- Features -->
+    <div class="container mt-20 max-lg:px-8 max-md:mt-10 max-md:px-4">
+        <div class="max-md:max-y-6 flex justify-center gap-6 max-lg:flex-wrap max-md:grid max-md:grid-cols-2 max-md:gap-x-2.5 max-md:text-center">
+                            <div class="flex items-center gap-5 bg-white max-md:grid max-md:gap-2.5 max-sm:gap-1 max-sm:px-2">
+                    <span
+                        class="icon-truck flex items-center justify-center w-[60px] h-[60px] bg-white border border-black rounded-full text-4xl text-navyBlue p-2.5 max-md:m-auto max-md:w-16 max-md:h-16 max-sm:w-10 max-sm:h-10 max-sm:text-2xl"
+                        role="presentation"
+                    ></span>
+
+                    <div class="max-lg:grid max-lg:justify-center">
+                        <!-- Service Title -->
+                        <p class="font-dmserif text-base font-medium max-md:text-xl max-sm:text-sm">Pengiriman Gratis</p>
+
+                        <!-- Service Description -->
+                        <p class="mt-2.5 max-w-[217px] text-sm font-medium text-zinc-500 max-md:mt-0 max-md:text-base max-sm:text-xs">
+                            Nikmati pengiriman gratis untuk semua pesanan
+                        </p>
+                    </div>
+                </div>
+                            <div class="flex items-center gap-5 bg-white max-md:grid max-md:gap-2.5 max-sm:gap-1 max-sm:px-2">
+                    <span
+                        class="icon-product flex items-center justify-center w-[60px] h-[60px] bg-white border border-black rounded-full text-4xl text-navyBlue p-2.5 max-md:m-auto max-md:w-16 max-md:h-16 max-sm:w-10 max-sm:h-10 max-sm:text-2xl"
+                        role="presentation"
+                    ></span>
+
+                    <div class="max-lg:grid max-lg:justify-center">
+                        <!-- Service Title -->
+                        <p class="font-dmserif text-base font-medium max-md:text-xl max-sm:text-sm">Penggantian Produk</p>
+
+                        <!-- Service Description -->
+                        <p class="mt-2.5 max-w-[217px] text-sm font-medium text-zinc-500 max-md:mt-0 max-md:text-base max-sm:text-xs">
+                            Penggantian Produk Mudah Tersedia!
+                        </p>
+                    </div>
+                </div>
+                            <div class="flex items-center gap-5 bg-white max-md:grid max-md:gap-2.5 max-sm:gap-1 max-sm:px-2">
+                    <span
+                        class="icon-dollar-sign flex items-center justify-center w-[60px] h-[60px] bg-white border border-black rounded-full text-4xl text-navyBlue p-2.5 max-md:m-auto max-md:w-16 max-md:h-16 max-sm:w-10 max-sm:h-10 max-sm:text-2xl"
+                        role="presentation"
+                    ></span>
+
+                    <div class="max-lg:grid max-lg:justify-center">
+                        <!-- Service Title -->
+                        <p class="font-dmserif text-base font-medium max-md:text-xl max-sm:text-sm">Bayar Di Tempat</p>
+
+                        <!-- Service Description -->
+                        <p class="mt-2.5 max-w-[217px] text-sm font-medium text-zinc-500 max-md:mt-0 max-md:text-base max-sm:text-xs">
+                            Tersedia Bayar Di Tempat Khusus Area Jakarta
+                        </p>
+                    </div>
+                </div>
+                            <div class="flex items-center gap-5 bg-white max-md:grid max-md:gap-2.5 max-sm:gap-1 max-sm:px-2">
+                    <span
+                        class="icon-support flex items-center justify-center w-[60px] h-[60px] bg-white border border-black rounded-full text-4xl text-navyBlue p-2.5 max-md:m-auto max-md:w-16 max-md:h-16 max-sm:w-10 max-sm:h-10 max-sm:text-2xl"
+                        role="presentation"
+                    ></span>
+
+                    <div class="max-lg:grid max-lg:justify-center">
+                        <!-- Service Title -->
+                        <p class="font-dmserif text-base font-medium max-md:text-xl max-sm:text-sm">Dukungan 24/7</p>
+
+                        <!-- Service Description -->
+                        <p class="mt-2.5 max-w-[217px] text-sm font-medium text-zinc-500 max-md:mt-0 max-md:text-base max-sm:text-xs">
+                            Dukungan khusus 24/7 melalui obrolan dan email
+                        </p>
+                    </div>
+                </div>
+                    </div>
+    </div>
+
+            
+            <!-- Page Footer Blade Component -->
+                            <!--
+    The category repository is injected directly here because there is no way
+    to retrieve it from the view composer, as this is an anonymous component.
+-->
+
+<!--
+    This code needs to be refactored to reduce the amount of PHP in the Blade
+    template as much as possible.
+-->
+
+<footer class="mt-9 bg-lightOrange max-sm:mt-10">
+    <div class="flex justify-between gap-x-6 gap-y-8 p-[60px] max-1060:flex-col-reverse max-md:gap-5 max-md:p-8 max-sm:px-4 max-sm:py-5">
+        <!-- For Desktop View -->
+        <div class="flex flex-wrap items-start gap-24 max-1180:gap-6 max-1060:hidden">
+                                                <ul class="grid gap-5 text-sm">
+                        
+                                                    <li>
+                                <a href="https://satu-tech.com/page/about-us">
+                                    Tentang Kami
+                                </a>
+                            </li>
+                                                    <li>
+                                <a href="https://satu-tech.com/contact-us">
+                                    Kontak Kami
+                                </a>
+                            </li>
+                                            </ul>
+                                    <ul class="grid gap-5 text-sm">
+                        
+                                                    <li>
+                                <a href="https://www.instagram.com/satuanugrahsolusindo">
+                                    Intagram Kami
+                                </a>
+                            </li>
+                                                    <li>
+                                <a href="https://www.facebook.com/profile.php?id=100095291617946&amp;mibextid=ZbWKwL">
+                                    Facebook Kami
+                                </a>
+                            </li>
+                                            </ul>
+                                    <ul class="grid gap-5 text-sm">
+                        
+                                                    <li>
+                                <a href="https://vt.tiktok.com/ZS2cjmsPw/">
+                                    Tiktok Kami
+                                </a>
+                            </li>
+                                            </ul>
+                                    </div>
+
+        <!-- For Mobile view -->
+        <div class="border-b border-zinc-200 hidden !w-full rounded-xl !border-2 !border-[#e9decc] max-1060:block max-sm:rounded-lg">
+    <v-accordion
+        is-active=""
+        
+    >
+                    <template v-slot:header="{ toggle, isOpen }">
+                <div
+                    class="flex cursor-pointer select-none items-center justify-between p-4 rounded-t-lg bg-[#F1EADF] font-medium max-md:p-2.5 max-sm:px-3 max-sm:py-2 max-sm:text-sm"
+                    role="button"
+                    tabindex="0"
+                    @click="toggle"
+                >
+                    Footer Content
+
+                    <span
+                        :class="`${isOpen ? 'icon-arrow-up' : 'icon-arrow-down'} text-2xl`"
+                        role="button"
+                        aria-label="Toggle accordion"
+                        tabindex="0"
+                    ></span>
+                </div>
+            </template>
+        
+                    <template v-slot:content="{ isOpen }">
+                <div
+                    class="z-10 rounded-lg bg-white p-1.5 flex justify-between !bg-transparent !p-4"
+                    v-show="isOpen"
+                >
+                    <ul class="grid gap-5 text-sm">
+                            
+                                                            <li>
+                                    <a
+                                        href="https://satu-tech.com/page/about-us"
+                                        class="text-sm font-medium max-sm:text-xs">
+                                        Tentang Kami
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a
+                                        href="https://satu-tech.com/contact-us"
+                                        class="text-sm font-medium max-sm:text-xs">
+                                        Kontak Kami
+                                    </a>
+                                </li>
+                                                    </ul>
+                                            <ul class="grid gap-5 text-sm">
+                            
+                                                            <li>
+                                    <a
+                                        href="https://www.instagram.com/satuanugrahsolusindo"
+                                        class="text-sm font-medium max-sm:text-xs">
+                                        Intagram Kami
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a
+                                        href="https://www.facebook.com/profile.php?id=100095291617946&amp;mibextid=ZbWKwL"
+                                        class="text-sm font-medium max-sm:text-xs">
+                                        Facebook Kami
+                                    </a>
+                                </li>
+                                                    </ul>
+                                            <ul class="grid gap-5 text-sm">
+                            
+                                                            <li>
+                                    <a
+                                        href="https://vt.tiktok.com/ZS2cjmsPw/"
+                                        class="text-sm font-medium max-sm:text-xs">
+                                        Tiktok Kami
+                                    </a>
+                                </li>
+                                                    </ul>
+                </div>
+            </template>
+            </v-accordion>
+</div>
+
+
+        
+
+        <!-- News Letter subscription -->
+                    <div class="grid gap-2.5">
+                <p
+                    class="max-w-[288px] text-3xl italic leading-[45px] text-navyBlue max-md:text-2xl max-sm:text-lg"
+                    role="heading"
+                    aria-level="2"
+                >
+                    Informasi Kami!                </p>
+
+                <p class="text-xs">
+                    Dapatkan informasi terbaru                </p>
+
+                <div>
+                    <!--
+    If a component has the `as` attribute, it indicates that it uses
+    the ajaxified form or some customized slot form.
+-->
+    
+    
+    <v-form
+        method="POST"
+        :initial-errors="[]"
+        v-slot="{ meta, errors }"
+        action="https://www.satu-tech.com/subscription" class="mt-2.5 rounded max-sm:mt-0"
+    >
+                    <input type="hidden" name="_token" value="pRUGpAAxAmiP5uMTk4HSUGCZYENC83F7vkGbNRIX" autocomplete="off">        
+        
+        <div class="relative w-full">
+                            <v-field
+            v-slot="{ field, errors }"
+            rules="required|email" label="Email"
+            name="email"
+        >
+            <input
+                type="email"
+                name="email"
+                v-bind="field"
+                :class="[errors.length ? 'border !border-red-500 hover:border-red-500' : '']"
+                class="mb-1.5 w-full rounded-lg border px-5 py-3 text-base font-normal text-gray-600 transition-all hover:border-gray-400 focus:border-gray-400 max-sm:px-4 max-md:py-2 max-sm:text-sm block w-[420px] max-w-full rounded-xl border-2 border-[#e9decc] bg-[#F1EADF] px-5 py-4 text-base max-1060:w-full max-md:p-3.5 max-sm:mb-0 max-sm:rounded-lg max-sm:border-2 max-sm:p-2 max-sm:text-sm" aria-label="Email" placeholder="email@example.com"
+            >
+        </v-field>
+            
+                            <v-error-message
+    
+    name="email"
+    v-slot="{ message }"
+>
+    <p
+        class="text-red-500 text-xs italic"
+        v-text="message"
+    >
+    </p>
+</v-error-message>
+    
+                            <button
+                                type="submit"
+                                class="absolute top-1.5 flex w-max items-center rounded-xl bg-white px-7 py-2.5 font-medium hover:bg-zinc-100 max-md:top-1 max-md:px-5 max-md:text-xs max-sm:mt-0 max-sm:rounded-lg max-sm:px-4 max-sm:py-2 ltr:right-2 rtl:left-2"
+                            >
+                                Langganan                            </button>
+                        </div>
+    </v-form>
+                </div>
+            </div>
+        
+        
+    </div>
+
+    <div class="flex justify-between bg-[#F1EADF] px-[60px] py-3.5 max-md:justify-center max-sm:px-5">
+        
+
+        <p class="text-sm text-zinc-600 max-md:text-center">
+            © Copyright 2010 - 2026, Webkul Software (Registered in India). All rights reserved.        </p>
+
+        
+    </div>
+</footer>
+
+
+                    </div>
+
+        <style>
+    .path-hint {
+        border: solid 1px transparent;
+        padding: 1px;
+    }
+
+    .path-hint:hover {
+        border: 1px solid red;
+    }
+
+    .path-hint-tooltip {
+        padding: 0px 10px;
+        position: absolute;
+        background: #000000;
+        z-index: 10000;
+        color: #fff;
+        font-size: 10px;
+    }
+
+    .path-hint-tooltip h4 {
+        margin-top: 5px;
+        margin-bottom: 3px;
+        color: #fff;
+        font-size: 12px;
+    }
+
+    .path-hint-tooltip ul li {
+        margin-bottom: 3px;
+    }
+
+    .main-container-wrapper .product-card .product-image img {
+        max-width: 100%;
+        height: 260px;
+        object-fit: cover;
+    }
+</style>
+
+
+            <script
+        type="text/x-template"
+        id="v-shimmer-image-template"
+    >
+        <div
+            :id="'image-shimmer-' + $.uid"
+            class="shimmer"
+            v-bind="$attrs"
+            v-show="isLoading"
+        >
+        </div>
+        
+        <img
+            v-bind="$attrs"
+            :data-src="src"
+            :id="'image-' + $.uid"
+            @load="onLoad"
+            v-show="! isLoading"
+            v-if="lazy"
+        >
+
+        <img
+            v-bind="$attrs"
+            :data-src="src"
+            :id="'image-' + $.uid"
+            @load="onLoad"
+            v-else
+            v-show="! isLoading"
+        >
+    </script>
+
+    <script type="module">
+        app.component('v-shimmer-image', {
+            template: '#v-shimmer-image-template',
+
+            props: {
+                lazy: {
+                    type: Boolean, 
+                    default: true,
+                },
+
+                src: {
+                    type: String, 
+                    default: '',
+                },
+            },
+
+            data() {
+                return {
+                    isLoading: true,
+                };
+            },
+
+            mounted() {
+                let self = this;
+
+                if (! this.lazy) {
+                    return;
+                }
+                
+                let lazyImageObserver = new IntersectionObserver(function(entries, observer) {
+                    entries.forEach(function(entry) {
+                        if (entry.isIntersecting) {
+                            let lazyImage = document.getElementById('image-' + self.$.uid);
+
+                            lazyImage.src = lazyImage.dataset.src;
+
+                            lazyImageObserver.unobserve(lazyImage);
+                        }
+                    });
+                });
+
+                lazyImageObserver.observe(document.getElementById('image-shimmer-' + this.$.uid));
+            },
+            
+            methods: {
+                onLoad() {
+                    this.isLoading = false;
+                },
+            },
+        });
+    </script>
+    <script
+        type="text/x-template"
+        id="v-product-card-template"
+    >
+        <!-- Grid Card -->
+        <div
+            class="1180:transtion-all group w-full rounded-md 1180:relative 1180:grid 1180:content-start 1180:overflow-hidden 1180:duration-300 1180:hover:shadow-[0_5px_10px_rgba(0,0,0,0.1)]"
+            v-if="mode != 'list'"
+        >
+            <div class="relative max-h-[300px] max-w-[291px] overflow-hidden max-md:max-h-60 max-md:max-w-full max-md:rounded-lg max-sm:max-h-[200px] max-sm:max-w-full">
+                
+
+                <!-- Product Image -->
+                <a
+                    :href="`https://www.satu-tech.com/${product.url_key}`"
+                    :aria-label="product.name + ' '"
+                >
+                    <v-shimmer-image class="after:content-[' '] relative bg-zinc-100 transition-all duration-300 after:block after:pb-[calc(100%+9px)] group-hover:scale-105" :src="product.base_image.medium_image_url" :key="product.id" :index="product.id" width="291" height="300" :alt="product.name">
+    <div class="shimmer after:content-[' '] relative bg-zinc-100 transition-all duration-300 after:block after:pb-[calc(100%+9px)] group-hover:scale-105" :src="product.base_image.medium_image_url" :key="product.id" :index="product.id" width="291" height="300" :alt="product.name"></div>
+</v-shimmer-image>
+
+                </a>
+
+                
+                
+                <!-- Product Ratings -->
+                
+
+                                    <v-product-ratings
+    class="flex w-max items-center rounded-md border border-zinc-200 px-4 py-2 absolute bottom-1.5 items-center !border-white bg-white/80 !px-2 !py-1 text-xs max-sm:!px-1.5 max-sm:!py-0.5 ltr:left-1.5 rtl:right-1.5" :average="product.ratings.average" :total="product.reviews.total" :rating="false" v-if="product.reviews.total"
+    average="0"
+    total="0"
+>
+</v-product-ratings>
+
+                
+                
+
+                <div class="action-items bg-black">
+                    <!-- Product Sale Badge -->
+                    <p
+                        class="absolute top-1.5 inline-block rounded-[44px] bg-red-600 px-2.5 text-sm text-white max-sm:rounded-l-none max-sm:rounded-r-xl max-sm:px-2 max-sm:py-0.5 max-sm:text-xs ltr:left-1.5 max-sm:ltr:left-0 rtl:right-5 max-sm:rtl:right-0"
+                        v-if="product.on_sale"
+                    >
+                        Sale                    </p>
+
+                    <!-- Product New Badge -->
+                    <p
+                        class="absolute top-1.5 inline-block rounded-[44px] bg-navyBlue px-2.5 text-sm text-white max-sm:rounded-l-none max-sm:rounded-r-xl max-sm:px-2 max-sm:py-0.5 max-sm:text-xs ltr:left-1.5 max-sm:ltr:left-0 rtl:right-1.5 max-sm:rtl:right-0"
+                        v-else-if="product.is_new"
+                    >
+                        New                    </p>
+
+                    <div class="opacity-0 transition-all duration-300 group-hover:bottom-0 group-hover:opacity-100 max-lg:opacity-100 max-sm:opacity-100">
+
+                        
+
+                                                    <span
+                                class="absolute top-2.5 flex h-6 w-6 items-center justify-center rounded-full border border-zinc-200 bg-white text-lg md:hidden ltr:right-1.5 rtl:left-1.5"
+                                role="button"
+                                aria-label="Add To Wishlist"
+                                tabindex="0"
+                                :class="product.is_wishlist ? 'icon-heart-fill text-red-500' : 'icon-heart'"
+                                @click="addToWishlist()"
+                            >
+                            </span>
+                        
+                        
+
+                        
+
+                                                    <span
+                                class="icon-compare absolute top-10 flex h-6 w-6 items-center justify-center rounded-full border border-zinc-200 bg-white text-lg sm:hidden ltr:right-1.5 rtl:left-1.5"
+                                role="button"
+                                aria-label="Add To Compare"
+                                tabindex="0"
+                                @click="addToCompare(product.id)"
+                            >
+                            </span>
+                        
+                        
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product Information Section -->
+            <div class="-mt-9 grid max-w-[291px] translate-y-9 content-start gap-2.5 bg-white p-2.5 transition-transform duration-300 ease-out group-hover:-translate-y-0 group-hover:rounded-t-lg max-md:relative max-md:mt-0 max-md:translate-y-0 max-md:gap-0 max-md:px-0 max-md:py-1.5 max-sm:min-w-[170px] max-sm:max-w-[192px]">
+
+                
+                    
+                <p class="text-base font-medium max-md:mb-1.5 max-md:max-w-56 max-md:whitespace-break-spaces max-md:leading-6 max-sm:max-w-[192px] max-sm:text-sm max-sm:leading-4">
+                    {{ product.name }}
+                </p>
+
+                
+
+                <!-- Pricing -->
+                
+
+                <div
+                    class="flex items-center gap-2.5 text-lg font-semibold max-sm:text-sm max-sm:leading-6"
+                    v-html="product.price_html"
+                >
+                </div>
+
+                
+
+                <!-- Product Actions Section -->
+                <div class="action-items flex items-center justify-between opacity-0 transition-all duration-300 ease-in-out group-hover:opacity-100 max-md:hidden">
+                                            
+
+                        <button
+                            class="secondary-button w-full max-w-full p-2.5 text-sm font-medium max-sm:rounded-xl max-sm:p-2"
+                            :disabled="! product.is_saleable || isAddingToCart"
+                            @click="addToCart()"
+                        >
+                            Add To Cart                        </button>
+
+                        
+                                        
+                    
+
+                                            <span
+                            class="cursor-pointer p-2.5 text-2xl max-sm:hidden"
+                            role="button"
+                            aria-label="Add To Wishlist"
+                            tabindex="0"
+                            :class="product.is_wishlist ? 'icon-heart-fill text-red-600' : 'icon-heart'"
+                            @click="addToWishlist()"
+                        >
+                        </span>
+                    
+                    
+
+                    
+
+                                            <span
+                            class="icon-compare cursor-pointer p-2.5 text-2xl max-sm:hidden"
+                            role="button"
+                            aria-label="Add To Compare"
+                            tabindex="0"
+                            @click="addToCompare(product.id)"
+                        >
+                        </span>
+                    
+                    
+                </div>
+            </div>
+        </div>
+
+        <!-- List Card -->
+        <div
+            class="relative flex max-w-max grid-cols-2 gap-4 overflow-hidden rounded max-sm:flex-wrap"
+            v-else
+        >
+            <div class="group relative max-h-[258px] max-w-[250px] overflow-hidden"> 
+
+                
+
+                <a :href="`https://www.satu-tech.com/${product.url_key}`">
+                    <v-shimmer-image class="after:content-[' '] relative min-w-[250px] bg-zinc-100 transition-all duration-300 after:block after:pb-[calc(100%+9px)] group-hover:scale-105" :src="product.base_image.medium_image_url" :key="product.id" :index="product.id" width="291" height="300" :alt="product.name">
+    <div class="shimmer after:content-[' '] relative min-w-[250px] bg-zinc-100 transition-all duration-300 after:block after:pb-[calc(100%+9px)] group-hover:scale-105" :src="product.base_image.medium_image_url" :key="product.id" :index="product.id" width="291" height="300" :alt="product.name"></div>
+</v-shimmer-image>
+
+                </a>
+
+                
+
+                <div class="action-items bg-black">
+                    <p
+                        class="absolute top-5 inline-block rounded-[44px] bg-red-500 px-2.5 text-sm text-white ltr:left-5 max-sm:ltr:left-2 rtl:right-5"
+                        v-if="product.on_sale"
+                    >
+                        Sale                    </p>
+
+                    <p
+                        class="absolute top-5 inline-block rounded-[44px] bg-navyBlue px-2.5 text-sm text-white ltr:left-5 max-sm:ltr:left-2 rtl:right-5"
+                        v-else-if="product.is_new"
+                    >
+                        New                    </p>
+
+                    <div class="opacity-0 transition-all duration-300 group-hover:bottom-0 group-hover:opacity-100 max-sm:opacity-100">
+
+                        
+
+                                                    <span 
+                                class="absolute top-5 flex h-[30px] w-[30px] cursor-pointer items-center justify-center rounded-md bg-white text-2xl ltr:right-5 rtl:left-5"
+                                role="button"
+                                aria-label="Add To Wishlist"
+                                tabindex="0"
+                                :class="product.is_wishlist ? 'icon-heart-fill text-red-600' : 'icon-heart'"
+                                @click="addToWishlist()"
+                            >
+                            </span>
+                        
+                        
+
+                        
+
+                                                    <span
+                                class="icon-compare absolute top-16 flex h-[30px] w-[30px] cursor-pointer items-center justify-center rounded-md bg-white text-2xl ltr:right-5 rtl:left-5"
+                                role="button"
+                                aria-label="Add To Compare"
+                                tabindex="0"
+                                @click="addToCompare(product.id)"
+                            >
+                            </span>
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+            <div class="grid content-start gap-4">
+
+                
+
+                <p class="text-base">
+                    {{ product.name }}
+                </p>
+
+                
+
+                
+
+                <div
+                    class="flex gap-2.5 text-lg font-semibold"
+                    v-html="product.price_html"
+                >
+                </div>
+
+                
+
+                <!-- Needs to implement that in future -->
+                <div class="flex hidden gap-4">
+                    <span class="block h-[30px] w-[30px] rounded-full bg-[#B5DCB4]">
+                    </span>
+
+                    <span class="block h-[30px] w-[30px] rounded-full bg-zinc-500">
+                    </span>
+                </div>
+
+                
+
+                
+
+                <p class="text-sm text-zinc-500">
+                    <template  v-if="! product.ratings.total">
+                        <p class="text-sm text-zinc-500">
+                            Be the first to review this product                        </p>
+                    </template>
+
+                    <template v-else>
+                                                    <v-product-ratings
+    class="flex w-max items-center rounded-md border border-zinc-200 px-4 py-2" :average="product.ratings.average" :total="product.reviews.total" :rating="false"
+    average="0"
+    total="0"
+>
+</v-product-ratings>
+
+                                            </template>
+                </p>
+
+                
+
+                
+                    
+
+                    <v-button class="primary-button whitespace-nowrap px-8 py-2.5" title="Add To Cart" :loading="isAddingToCart" :disabled="! product.is_saleable || isAddingToCart" @click="addToCart()"></v-button>
+
+
+                    
+
+                            </div>
+        </div>
+    </script>
+
+    <script type="module">
+        app.component('v-product-card', {
+            template: '#v-product-card-template',
+
+            props: ['mode', 'product'],
+
+            data() {
+                return {
+                    isCustomer: '',
+
+                    isAddingToCart: false,
+                }
+            },
+
+            methods: {
+                addToWishlist() {
+                    if (this.isCustomer) {
+                        this.$axios.post(`https://www.satu-tech.com/api/customer/wishlist`, {
+                                product_id: this.product.id
+                            })
+                            .then(response => {
+                                this.product.is_wishlist = ! this.product.is_wishlist;
+
+                                this.$emitter.emit('add-flash', { type: 'success', message: response.data.data.message });
+                            })
+                            .catch(error => {});
+                        } else {
+                            window.location.href = "https://www.satu-tech.com/customer/login";
+                        }
+                },
+
+                addToCompare(productId) {
+                    /**
+                     * This will handle for customers.
+                     */
+                    if (this.isCustomer) {
+                        this.$axios.post('https://www.satu-tech.com/api/compare-items', {
+                                'product_id': productId
+                            })
+                            .then(response => {
+                                this.$emitter.emit('add-flash', { type: 'success', message: response.data.data.message });
+                            })
+                            .catch(error => {
+                                if ([400, 422].includes(error.response.status)) {
+                                    this.$emitter.emit('add-flash', { type: 'warning', message: error.response.data.data.message });
+
+                                    return;
+                                }
+
+                                this.$emitter.emit('add-flash', { type: 'error', message: error.response.data.message});
+                            });
+
+                        return;
+                    }
+
+                    /**
+                     * This will handle for guests.
+                     */
+                    let items = this.getStorageValue() ?? [];
+
+                    if (items.length) {
+                        if (! items.includes(productId)) {
+                            items.push(productId);
+
+                            localStorage.setItem('compare_items', JSON.stringify(items));
+
+                            this.$emitter.emit('add-flash', { type: 'success', message: "Item added successfully to compare list." });
+                        } else {
+                            this.$emitter.emit('add-flash', { type: 'warning', message: "Item is already added to compare list." });
+                        }
+                    } else {
+                        localStorage.setItem('compare_items', JSON.stringify([productId]));
+
+                        this.$emitter.emit('add-flash', { type: 'success', message: "Item added successfully to compare list." });
+
+                    }
+                },
+
+                getStorageValue(key) {
+                    let value = localStorage.getItem('compare_items');
+
+                    if (! value) {
+                        return [];
+                    }
+
+                    return JSON.parse(value);
+                },
+
+                addToCart() {
+                    this.isAddingToCart = true;
+
+                    this.$axios.post('https://www.satu-tech.com/api/checkout/cart', {
+                            'quantity': 1,
+                            'product_id': this.product.id,
+                        })
+                        .then(response => {
+                            if (response.data.message) {
+                                this.$emitter.emit('update-mini-cart', response.data.data );
+
+                                this.$emitter.emit('add-flash', { type: 'success', message: response.data.message });
+                            } else {
+                                this.$emitter.emit('add-flash', { type: 'warning', message: response.data.data.message });
+                            }
+
+                            this.isAddingToCart = false;
+                        })
+                        .catch(error => {
+                            this.$emitter.emit('add-flash', { type: 'error', message: error.response.data.message });
+
+                            if (error.response.data.redirect_uri) {
+                                window.location.href = error.response.data.redirect_uri;
+                            }
+                            
+                            this.isAddingToCart = false;
+                        });
+                },
+            },
+        });
+    </script>
+    <script
+        type="text/x-template"
+        id="v-flash-group-template"
+    >
+        <transition-group
+            tag='div'
+            name="flash-group"
+            enter-from-class="ltr:translate-x-full rtl:-translate-x-full"
+            enter-active-class="transform transition duration-200 ease-in-out"
+            enter-to-class="ltr:translate-x-0 rtl:-translate-x-0"
+            leave-from-class="ltr:translate-x-0 rtl:-translate-x-0"
+            leave-active-class="transform transition duration-200 ease-in-out"
+            leave-to-class="ltr:translate-x-full rtl:-translate-x-full"
+            class='fixed top-5 z-[1001] grid justify-items-end gap-2.5 max-sm:hidden ltr:right-5 rtl:left-5'
+        >
+            <v-flash-item
+    v-for='flash in flashes'
+    :key='flash.uid'
+    :flash="flash"
+    @onRemove="remove($event)"
+/>
+
+        </transition-group>
+
+        <transition-group
+            tag='div'
+            name="flash-group"
+            enter-from-class="ltr:translate-y-full rtl:-translate-y-full"
+            enter-active-class="transform transition duration-200 ease-in-out"
+            enter-to-class="ltr:translate-y-0 rtl:-translate-y-0"
+            leave-from-class="ltr:translate-y-0 rtl:-translate-y-0"
+            leave-active-class="transform transition duration-200 ease-in-out"
+            leave-to-class="ltr:translate-y-full rtl:-translate-y-full"
+            class='fixed bottom-10 left-1/2 z-[1001] grid -translate-x-1/2 -translate-y-1/2 transform justify-items-center gap-2.5 sm:hidden'
+        >
+            <v-flash-item
+    v-for='flash in flashes'
+    :key='flash.uid'
+    :flash="flash"
+    @onRemove="remove($event)"
+/>
+
+        </transition-group>
+    </script>
+
+    <script type="module">
+        app.component('v-flash-group', {
+            template: '#v-flash-group-template',
+
+            data() {
+                return {
+                    uid: 0,
+
+                    flashes: []
+                }
+            },
+
+            created() {
+                                                                                                                                                                
+                this.registerGlobalEvents();
+            },
+
+            methods: {
+                add(flash) {
+                    flash.uid = this.uid++;
+
+                    this.flashes.push(flash);
+                },
+
+                remove(flash) {
+                    let index = this.flashes.indexOf(flash);
+
+                    this.flashes.splice(index, 1);
+                },
+
+                registerGlobalEvents() {
+                    this.$emitter.on('add-flash', this.add);
+                },
+            }
+        });
+    </script>
+    <script
+        type="text/x-template"
+        id="v-modal-confirm-template"
+    >
+        <div>
+            <transition
+                tag="div"
+                name="modal-overlay"
+                enter-class="duration-300 ease-out"
+                enter-from-class="opacity-0"
+                enter-to-class="opacity-100"
+                leave-class="duration-200 ease-in"
+                leave-from-class="opacity-100"
+                leave-to-class="opacity-0"
+            >
+                <div
+                    class="fixed inset-0 z-20 bg-gray-500 bg-opacity-50 transition-opacity"
+                    v-show="isOpen"
+                ></div>
+            </transition>
+
+            <transition
+                tag="div"
+                name="modal-content"
+                enter-class="duration-300 ease-out"
+                enter-from-class="translate-y-4 opacity-0 md:translate-y-0 md:scale-95"
+                enter-to-class="translate-y-0 opacity-100 md:scale-100"
+                leave-class="duration-200 ease-in"
+                leave-from-class="translate-y-0 opacity-100 md:scale-100"
+                leave-to-class="translate-y-4 opacity-0 md:translate-y-0 md:scale-95"
+            >
+                <div
+                    class="fixed inset-0 z-20 transform overflow-y-auto transition" v-show="isOpen"
+                >
+                    <div class="flex min-h-full items-end justify-center p-4 text-center sm:items-center sm:p-0">
+                        <div class="absolute left-1/2 top-1/2 z-[999] w-full max-w-[475px] -translate-x-1/2 -translate-y-1/2 overflow-hidden rounded-xl bg-white p-5 max-md:w-[90%] max-sm:p-4">
+                            <div class="flex gap-2.5">
+                                <div>
+                                    <span class="flex rounded-full border border-gray-300 p-2.5">
+                                        <i class="icon-error text-3xl max-sm:text-xl"></i>
+                                    </span>
+                                </div>
+
+                                <div>
+                                    <div class="flex items-center justify-between gap-5 text-xl max-sm:text-lg">
+                                        {{ title }}
+                                    </div>
+
+                                    <div class="pb-5 pt-1.5 text-left text-sm text-gray-500">
+                                        {{ message }}
+                                    </div>
+
+                                    <div class="flex justify-end gap-2.5">
+                                        <button
+                                            type="button"
+                                            class="secondary-button max-md:py-3 max-sm:px-6 max-sm:py-2.5"
+                                            @click="disagree"
+                                        >
+                                            {{ options.btnDisagree }}
+                                        </button>
+
+                                        <button
+                                            type="button"
+                                            class="primary-button max-md:py-3 max-sm:px-6 max-sm:py-2.5"
+                                            @click="agree"
+                                        >
+                                            {{ options.btnAgree }} 
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </transition>
+        </div>
+    </script>
+
+    <script type="module">
+        app.component('v-modal-confirm', {
+            template: '#v-modal-confirm-template',
+
+            data() {
+                return {
+                    isOpen: false,
+
+                    title: '',
+
+                    message: '',
+
+                    options: {
+                        btnDisagree: '',
+                        btnAgree: '',
+                    },
+
+                    agreeCallback: null,
+
+                    disagreeCallback: null,
+                };
+            },
+
+            created() {
+                this.registerGlobalEvents();
+            },
+
+            methods: {
+                open({
+                    title = "Are you sure?",
+                    message = "Are you sure you want to perform this action?",
+                    options = {
+                        btnDisagree: "Disagree",
+                        btnAgree: "Agree",
+                    },
+                    agree = () => {},
+                    disagree = () => {},
+                }) {
+                    this.isOpen = true;
+
+                    document.body.style.overflow = 'hidden';
+
+                    this.title = title;
+
+                    this.message = message;
+
+                    this.options = options;
+
+                    this.agreeCallback = agree;
+
+                    this.disagreeCallback = disagree;
+                },
+
+                disagree() {
+                    this.isOpen = false;
+
+                    document.body.style.overflow = 'auto';
+
+                    this.disagreeCallback();
+                },
+
+                agree() {
+                    this.isOpen = false;
+
+                    document.body.style.overflow = 'auto';
+
+                    this.agreeCallback();
+                },
+
+                registerGlobalEvents() {
+                    this.$emitter.on('open-confirm-modal', this.open);
+                },
+            }
+        });
+    </script>
+    <script
+        type="text/x-template"
+        id="v-carousel-template"
+    >
+        <div class="relative m-auto flex w-full overflow-hidden">
+            <!-- Slider -->
+            <div 
+                class="inline-flex translate-x-0 cursor-pointer transition-transform duration-700 ease-out will-change-transform"
+                ref="sliderContainer"
+            >
+                <div
+                    class="max-h-screen w-screen bg-cover bg-no-repeat"
+                    v-for="(image, index) in images"
+                    @click="visitLink(image)"
+                    ref="slide"
+                >
+                    <v-shimmer-image class="aspect-[2.743/1] max-h-full w-full max-w-full select-none transition-transform duration-300 ease-in-out" :lazy="false" :src="image.image" :srcset="image.image + ' 1920w, ' + image.image.replace('storage', 'cache/large') + ' 1280w,' + image.image.replace('storage', 'cache/medium') + ' 1024w, ' + image.image.replace('storage', 'cache/small') + ' 525w'" :alt="image?.title" tabindex="0">
+    <div class="shimmer aspect-[2.743/1] max-h-full w-full max-w-full select-none transition-transform duration-300 ease-in-out" :lazy="false" :src="image.image" :srcset="image.image + ' 1920w, ' + image.image.replace('storage', 'cache/large') + ' 1280w,' + image.image.replace('storage', 'cache/medium') + ' 1024w, ' + image.image.replace('storage', 'cache/small') + ' 525w'" :alt="image?.title" tabindex="0"></div>
+</v-shimmer-image>
+
+                </div>
+            </div>
+
+            <!-- Navigation -->
+            <span
+                class="icon-arrow-left absolute left-2.5 top-1/2 -mt-[22px] hidden w-auto rounded-full bg-black/80 p-3 text-2xl font-bold text-white opacity-30 transition-all md:inline-block"
+                :class="{
+                    'cursor-not-allowed': direction == 'ltr' && currentIndex == 0,
+                    'cursor-pointer hover:opacity-100': direction == 'ltr' ? currentIndex > 0 : currentIndex <= 0
+                }"
+                role="button"
+                aria-label="shop::components.carousel.previous"
+                tabindex="0"
+                v-if="images?.length >= 2"
+                @click="navigate('prev')"
+            >
+            </span>
+
+            <span
+                class="icon-arrow-right absolute right-2.5 top-1/2 -mt-[22px] hidden w-auto rounded-full bg-black/80 p-3 text-2xl font-bold text-white opacity-30 transition-all md:inline-block"
+                :class="{
+                    'cursor-not-allowed': direction == 'rtl' && currentIndex == 0,
+                    'cursor-pointer hover:opacity-100': direction == 'rtl' ? currentIndex < 0 : currentIndex >= 0
+                }"
+                role="button"
+                aria-label="shop::components.carousel.next"
+                tabindex="0"
+                v-if="images?.length >= 2"
+                @click="navigate('next')"
+            >
+            </span>
+
+            <!-- Pagination -->
+            <div class="absolute bottom-5 left-0 flex w-full justify-center max-md:bottom-3.5 max-sm:bottom-2.5">
+                <div
+                    v-for="(image, index) in images"
+                    class="mx-1 h-3 w-3 cursor-pointer rounded-full max-md:h-2 max-md:w-2 max-sm:h-1.5 max-sm:w-1.5"
+                    :class="{ 'bg-navyBlue': index === Math.abs(currentIndex), 'opacity-30 bg-gray-500': index !== Math.abs(currentIndex) }"
+                    role="button"
+                    tabindex="0"
+                    @click="navigateByPagination(index)"
+                >
+                </div>
+            </div>
+        </div>
+    </script>
+
+    <script type="module">
+        app.component("v-carousel", {
+            template: '#v-carousel-template',
+
+            props: ['images'],
+
+            data() {
+                return {
+                    isDragging: false,
+                    startPos: 0,
+                    currentTranslate: 0,
+                    prevTranslate: 0,
+                    animationID: 0,
+                    currentIndex: 0,
+                    slider: '',
+                    slides: [],
+                    autoPlayInterval: null,
+                    direction: 'ltr',
+                    startFrom: 1,
+                };
+            },
+
+            mounted() {
+                this.slider = this.$refs.sliderContainer;
+
+                if (
+                    this.$refs.slide
+                    && typeof this.$refs.slide[Symbol.iterator] === 'function'
+                ) {
+                    this.slides = Array.from(this.$refs.slide);
+                }
+
+                this.init();
+
+                this.play();
+            },
+
+            methods: {
+                init() {
+                    this.direction = document.dir;
+
+                    if (this.direction == 'rtl') {
+                        this.startFrom = -1;
+                    }
+
+                    this.slides.forEach((slide, index) => {
+                        slide.querySelector('img')?.addEventListener('dragstart', (e) => e.preventDefault());
+
+                        slide.addEventListener('mousedown', this.handleDragStart);
+
+                        slide.addEventListener('touchstart', this.handleDragStart);
+
+                        slide.addEventListener('mouseup', this.handleDragEnd);
+
+                        slide.addEventListener('mouseleave', this.handleDragEnd);
+
+                        slide.addEventListener('touchend', this.handleDragEnd);
+
+                        slide.addEventListener('mousemove', this.handleDrag);
+
+                        slide.addEventListener('touchmove', this.handleDrag, { passive: true });
+                    });
+
+                    window.addEventListener('resize', this.setPositionByIndex);
+                },
+
+                handleDragStart(event) {
+                    this.startPos = event.type === 'mousedown' ? event.clientX : event.touches[0].clientX;
+
+                    this.isDragging = true;
+
+                    this.animationID = requestAnimationFrame(this.animation);
+                },
+
+                handleDrag(event) {
+                    if (! this.isDragging) {
+                        return;
+                    }
+
+                    const currentPosition = event.type === 'mousemove' ? event.clientX : event.touches[0].clientX;
+
+                    this.currentTranslate = this.prevTranslate + currentPosition - this.startPos;
+                },
+
+                handleDragEnd(event) {
+                    clearInterval(this.autoPlayInterval);
+
+                    cancelAnimationFrame(this.animationID);
+
+                    this.isDragging = false;
+
+                    const movedBy = this.currentTranslate - this.prevTranslate;
+
+                    if (this.direction == 'ltr') {
+                        if (
+                            movedBy < -100
+                            && this.currentIndex < this.slides.length - 1
+                        ) {
+                            this.currentIndex += 1;
+                        }
+
+                        if (
+                            movedBy > 100
+                            && this.currentIndex > 0
+                        ) {
+                            this.currentIndex -= 1;
+                        }
+                    } else {
+                        if (
+                            movedBy > 100
+                            && this.currentIndex < this.slides.length - 1
+                        ) {
+                            if (Math.abs(this.currentIndex) != this.slides.length - 1) {
+                                this.currentIndex -= 1;
+                            }
+                        }
+
+                        if (
+                            movedBy < -100
+                            && this.currentIndex < 0
+                        ) {
+                            this.currentIndex += 1;
+                        }
+                    }
+
+                    this.setPositionByIndex();
+
+                    this.play();
+                },
+
+                animation() {
+                    this.setSliderPosition();
+
+                    if (this.isDragging) {
+                        requestAnimationFrame(this.animation);
+                    }
+                },
+
+                setPositionByIndex() {
+                    this.currentTranslate = this.currentIndex * -window.innerWidth;
+
+                    this.prevTranslate = this.currentTranslate;
+
+                    this.setSliderPosition();
+                },
+
+                setSliderPosition() {
+                    this.slider.style.transform = `translateX(${this.currentTranslate}px)`
+                },
+
+                visitLink(image) {
+                    if (image.link) {
+                        window.location.href = image.link;
+                    }
+                },
+
+                navigate(type) {
+                    clearInterval(this.autoPlayInterval);
+
+                    if (this.direction === 'rtl') {
+                        type === 'next' ? this.prev() : this.next();
+                    } else {
+                        type === 'next' ? this.next() : this.prev();
+                    }
+
+                    this.setPositionByIndex();
+
+                    this.play();
+                },
+
+                next() {
+                    this.currentIndex = (this.currentIndex + this.startFrom) % this.images.length;
+                },
+
+                prev() {
+                    this.currentIndex = this.direction == 'ltr'
+                        ? this.currentIndex > 0 ? this.currentIndex - 1 : 0
+                        : this.currentIndex < 0 ? this.currentIndex + 1 : 0;
+                },
+
+                navigateByPagination(index) {
+                    this.direction == 'rtl' ? index = -index : '';
+
+                    clearInterval(this.autoPlayInterval);
+
+                    this.currentIndex = index;
+
+                    this.setPositionByIndex();
+
+                    this.play();
+                },
+
+                play() {
+                    clearInterval(this.autoPlayInterval);
+
+                    this.autoPlayInterval = setInterval(() => {
+                        this.currentIndex = (this.currentIndex + this.startFrom) % this.images.length;
+
+                        this.setPositionByIndex();
+                    }, 5000);
+                },
+            },
+        });
+    </script>
+    <script
+        type="text/x-template"
+        id="v-products-carousel-template"
+    >
+        <div
+            class="container mt-20 max-lg:px-8 max-md:mt-8 max-sm:mt-7 max-sm:!px-4"
+            v-if="! isLoading && products.length"
+        >
+            <div class="flex justify-between">
+                <h2 class="font-dmserif text-3xl max-md:text-2xl max-sm:text-xl">
+                    {{ title }}
+                </h2>
+
+                <div class="flex items-center justify-between gap-8">
+                    <a
+                        :href="navigationLink"
+                        class="hidden max-lg:flex"
+                        v-if="navigationLink"
+                    >
+                        <p class="items-center text-xl max-md:text-base max-sm:text-sm">
+                            View All
+                            <span class="icon-arrow-right text-2xl max-md:text-lg max-sm:text-sm"></span>
+                        </p>
+                    </a>
+
+                    <span
+                        class="icon-arrow-left-stylish rtl:icon-arrow-right-stylish inline-block cursor-pointer text-2xl max-lg:hidden"
+                        role="button"
+                        aria-label="Previous"
+                        tabindex="0"
+                        @click="swipeLeft"
+                    >
+                    </span>
+
+                    <span
+                        class="icon-arrow-right-stylish rtl:icon-arrow-left-stylish inline-block cursor-pointer text-2xl max-lg:hidden"
+                        role="button"
+                        aria-label="Next"
+                        tabindex="0"
+                        @click="swipeRight"
+                    >
+                    </span>
+                </div>
+            </div>
+
+            <div
+                ref="swiperContainer"
+                class="flex gap-8 pb-2.5 [&>*]:flex-[0] mt-10 overflow-auto scroll-smooth scrollbar-hide max-md:gap-7 max-md:mt-5 max-sm:gap-4 max-md:pb-0 max-md:whitespace-nowrap"
+            >
+                <v-product-card
+    class="min-w-[291px] max-md:h-fit max-md:min-w-56 max-sm:min-w-[192px]" v-for="product in products"
+    :product="product"
+>
+</v-product-card>
+
+            </div>
+
+            <a
+                :href="navigationLink"
+                class="secondary-button mx-auto mt-5 block w-max rounded-2xl px-11 py-3 text-center text-base max-lg:mt-0 max-lg:hidden max-lg:py-3.5 max-md:rounded-lg"
+                :aria-label="title"
+                v-if="navigationLink"
+            >
+                View All            </a>
+        </div>
+
+        <!-- Product Card Listing -->
+        <template v-if="isLoading">
+            <div class="container mt-20 max-lg:px-8 max-md:mt-8 max-sm:mt-7 max-sm:!px-4">
+    <div class="flex items-center justify-between">
+        <h3 class="shimmer h-8 w-[200px] max-sm:h-7"></h3>
+
+        <div class="flex items-center justify-between gap-8 max-lg:hidden">
+            <span
+                class="shimmer inline-block h-6 w-6"
+                role="presentation"
+            ></span>
+
+            <span
+                class="shimmer inline-block h-6 w-6 max-sm:hidden"
+                role="presentation"
+            ></span>
+        </div>
+
+        <div class="shimmer h-7 w-24 max-sm:h-5 max-sm:w-[68px] lg:hidden"></div>
+    </div>
+
+    <div class="scrollbar-hide mt-10 flex gap-8 overflow-auto pb-2.5 max-md:mt-5 max-sm:gap-4">
+        <div class="grid gap-2.5 relative w-full max-w-[291px] max-sm:grid-cols-1 min-w-[291px] max-md:h-fit max-md:min-w-56 max-sm:min-w-[192px]">
+        <div class="shimmer relative w-full rounded max-sm:!rounded-lg">
+            <div class="after:content-[' '] relative after:block after:pb-[calc(100%+9px)]"></div>
+        </div>
+
+        <div class="grid content-start gap-2.5 max-sm:gap-1">
+            <p class="shimmer h-4 w-3/4"></p>
+            <p class="shimmer h-4 w-[55%]"></p>
+
+            <!-- Needs to implement that in future -->
+            <div class="mt-3 flex hidden gap-4">
+                <span class="shimmer block h-[30px] w-[30px] rounded-full"></span>
+                <span class="shimmer block h-[30px] w-[30px] rounded-full"></span>
+            </div>
+        </div>
+    </div>
+    <div class="grid gap-2.5 relative w-full max-w-[291px] max-sm:grid-cols-1 min-w-[291px] max-md:h-fit max-md:min-w-56 max-sm:min-w-[192px]">
+        <div class="shimmer relative w-full rounded max-sm:!rounded-lg">
+            <div class="after:content-[' '] relative after:block after:pb-[calc(100%+9px)]"></div>
+        </div>
+
+        <div class="grid content-start gap-2.5 max-sm:gap-1">
+            <p class="shimmer h-4 w-3/4"></p>
+            <p class="shimmer h-4 w-[55%]"></p>
+
+            <!-- Needs to implement that in future -->
+            <div class="mt-3 flex hidden gap-4">
+                <span class="shimmer block h-[30px] w-[30px] rounded-full"></span>
+                <span class="shimmer block h-[30px] w-[30px] rounded-full"></span>
+            </div>
+        </div>
+    </div>
+    <div class="grid gap-2.5 relative w-full max-w-[291px] max-sm:grid-cols-1 min-w-[291px] max-md:h-fit max-md:min-w-56 max-sm:min-w-[192px]">
+        <div class="shimmer relative w-full rounded max-sm:!rounded-lg">
+            <div class="after:content-[' '] relative after:block after:pb-[calc(100%+9px)]"></div>
+        </div>
+
+        <div class="grid content-start gap-2.5 max-sm:gap-1">
+            <p class="shimmer h-4 w-3/4"></p>
+            <p class="shimmer h-4 w-[55%]"></p>
+
+            <!-- Needs to implement that in future -->
+            <div class="mt-3 flex hidden gap-4">
+                <span class="shimmer block h-[30px] w-[30px] rounded-full"></span>
+                <span class="shimmer block h-[30px] w-[30px] rounded-full"></span>
+            </div>
+        </div>
+    </div>
+    <div class="grid gap-2.5 relative w-full max-w-[291px] max-sm:grid-cols-1 min-w-[291px] max-md:h-fit max-md:min-w-56 max-sm:min-w-[192px]">
+        <div class="shimmer relative w-full rounded max-sm:!rounded-lg">
+            <div class="after:content-[' '] relative after:block after:pb-[calc(100%+9px)]"></div>
+        </div>
+
+        <div class="grid content-start gap-2.5 max-sm:gap-1">
+            <p class="shimmer h-4 w-3/4"></p>
+            <p class="shimmer h-4 w-[55%]"></p>
+
+            <!-- Needs to implement that in future -->
+            <div class="mt-3 flex hidden gap-4">
+                <span class="shimmer block h-[30px] w-[30px] rounded-full"></span>
+                <span class="shimmer block h-[30px] w-[30px] rounded-full"></span>
+            </div>
+        </div>
+    </div>
+    </div>
+
+            <a
+            class="shimmer mx-auto mt-16 block h-12 w-[150.172px] rounded-2xl max-md:hidden"
+            role="button"
+            aria-label="Show more products"
+        ></a>
+    </div>
+        </template>
+    </script>
+
+    <script type="module">
+        app.component('v-products-carousel', {
+            template: '#v-products-carousel-template',
+
+            props: [
+                'src',
+                'title',
+                'navigationLink',
+            ],
+
+            data() {
+                return {
+                    isLoading: true,
+
+                    products: [],
+
+                    offset: 323,
+                };
+            },
+
+            mounted() {
+                this.getProducts();
+            },
+
+            methods: {
+                getProducts() {
+                    this.$axios.get(this.src)
+                        .then(response => {
+                            this.isLoading = false;
+
+                            this.products = response.data.data;
+                        }).catch(error => {
+                            console.log(error);
+                        });
+                },
+
+                swipeLeft() {
+                    const container = this.$refs.swiperContainer;
+
+                    container.scrollLeft -= this.offset;
+                },
+
+                swipeRight() {
+                    const container = this.$refs.swiperContainer;
+
+                    // Check if scroll reaches the end
+                    if (container.scrollLeft + container.clientWidth >= container.scrollWidth) {
+                        // Reset scroll to the beginning
+                        container.scrollLeft = 0;
+                    } else {
+                        // Scroll to the right
+                        container.scrollLeft += this.offset;
+                    }
+                },
+            },
+        });
+    </script>
+    <script
+        type="text/x-template"
+        id="v-product-ratings-template"
+    >
+        <div>
+            <span class="text-sm font-medium text-black max-sm:text-xs">
+                {{ average }}
+            </span>
+        
+            <span
+                class="icon-star-fill -mt-1 text-xl text-amber-500 max-sm:-mt-1 max-sm:text-lg"
+                role="presentation"
+            >
+            </span>
+            
+            <span class="border-l border-zinc-300 text-sm font-medium text-black max-sm:border-zinc-300 max-sm:text-xs ltr:pl-1 rtl:pr-1">
+                {{ abbreviatedTotal }}
+
+                <span v-if="rating">Ratings</span>
+            </span>
+        </div>
+    </script>
+
+    <script type="module">
+        app.component("v-product-ratings", {
+            template: "#v-product-ratings-template",
+
+            props: {
+                average: {
+                    type: String,
+                    required: true,
+                },
+
+                total: {
+                    type: String,
+                    required: true,
+                },
+
+                rating: {
+                    type: Boolean,
+                    required: false,
+                },
+            },
+
+            computed: {
+                starColorClasses() {
+                    return {
+                        'text-emerald-600': this.average > 4,
+                        'text-emerald-500': this.average >= 4 && this.average < 5,
+                        'text-emerald-400': this.average >= 3 && this.average < 4,
+                        'text-amber-500': this.average >= 2 && this.average < 3,
+                        'text-red-500': this.average >= 1 && this.average < 2,
+                        'text-gray-400': this.average <= 0,
+                    };
+                },
+
+                abbreviatedTotal() {
+                    if (this.total >= 1000) {
+                        return `${(this.total / 1000).toFixed(1)}k`;
+                    }
+
+                    return this.total;
+                },
+            },
+        });
+    </script>
+    <script
+        type="text/x-template"
+        id="v-button-template"
+    >
+        <button
+            v-if="! loading"
+            :class="[buttonClass, '']"
+        >
+            {{ title }}
+        </button>
+
+        <button
+            v-else
+            :class="[buttonClass, '']"
+        >
+            <!-- Spinner -->
+            <svg
+                class="text-blue absolute h-5 w-5 animate-spin"
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none" 
+                aria-hidden="true"
+                viewBox="0 0 24 24"
+            >
+                <circle
+                    class="opacity-25"
+                    cx="12"
+                    cy="12"
+                    r="10"
+                    stroke="currentColor"
+                    stroke-width="4"
+                >
+                </circle>
+
+                <path
+                    class="opacity-75"
+                    fill="currentColor"
+                    d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
+                >
+                </path>
+            </svg>
+
+            <span class="realative h-full w-full opacity-0">
+                {{ title }}
+            </span>
+        </button>
+    </script>
+
+    <script type="module">
+        app.component('v-button', {
+            template: '#v-button-template',
+
+            props: {
+                loading: Boolean,
+                buttonType: String,
+                title: String,
+                buttonClass: String,
+            },
+        });
+    </script>
+    <script
+        type="text/x-template"
+        id="v-flash-item-template"
+    >
+        <div
+            class="flex w-max max-w-[408px] justify-between gap-12 rounded-lg px-5 py-3 max-sm:max-w-80 max-sm:items-center max-sm:gap-2 max-sm:p-3"
+            :style="typeStyles[flash.type]['container']"
+        >
+            <p
+                class="flex items-center break-words text-sm"
+                :style="typeStyles[flash.type]['message']"
+            >
+                <span
+                    class="icon-toast-done text-2xl ltr:mr-2.5 rtl:ml-2.5"
+                    :class="iconClasses[flash.type]"
+                    :style="typeStyles[flash.type]['icon']"
+                ></span>
+
+                {{ flash.message }}
+            </p>
+
+			<span
+                class="icon-cancel max-h-4 max-w-4 cursor-pointer"
+                :style="typeStyles[flash.type]['icon']"
+                @click="remove"
+            ></span>
+        </div>
+    </script>
+
+    <script type="module">
+        app.component('v-flash-item', {
+            template: '#v-flash-item-template',
+
+            props: ['flash'],
+
+            data() {
+                return {
+                    iconClasses: {
+                        success: 'icon-toast-done',
+
+                        error: 'icon-toast-error',
+
+                        warning: 'icon-toast-exclamation-mark',
+
+                        info: 'icon-toast-info',
+                    },
+
+                    typeStyles: {
+                        success: {
+                            container: 'background: #D4EDDA',
+
+                            message: 'color: #155721',
+
+                            icon: 'color: #155721'
+                        },
+
+                        error: {
+                            container: 'background: #F8D7DA',
+
+                            message: 'color: #721C24',
+
+                            icon: 'color: #721C24'
+                        },
+
+                        warning: {
+                            container: 'background: #FFF3CD',
+
+                            message: 'color: #856404',
+
+                            icon: 'color: #856404'
+                        },
+
+                        info: {
+                            container: 'background: #E2E3E5',
+
+                            message: 'color: #383D41',
+
+                            icon: 'color: #383D41'
+                        },
+                    },
+                };
+            },
+
+            created() {
+                var self = this;
+
+                setTimeout(function() {
+                    self.remove()
+                }, 5000)
+            },
+
+            methods: {
+                remove() {
+                    this.$emit('onRemove', this.flash)
+                }
+            }
+        });
+    </script>
+    <script
+        type="text/x-template"
+        id="v-mobile-category-template"
+    >
+        <div>
+            <template v-for="(category) in categories">
+                
+
+                <div class="flex items-center justify-between border border-b border-l-0 border-r-0 border-t-0 border-zinc-100 py-3.5 max-sm:py-2.5">
+                    <a
+                        :href="category.url"
+                        class="flex items-center justify-between"
+                    >
+                        {{ category.name }}
+                    </a>
+
+                    <span
+                        class="cursor-pointer text-2xl"
+                        :class="{'icon-arrow-down': category.isOpen, 'icon-arrow-right': ! category.isOpen}"
+                        @click="toggle(category)"
+                    >
+                    </span>
+                </div>
+
+                <div
+                    class="grid gap-2"
+                    v-if="category.isOpen"
+                >
+                    <ul v-if="category.children.length">
+                        <li v-for="secondLevelCategory in category.children">
+                            <div class="flex items-center justify-between border border-b border-l-0 border-r-0 border-t-0 border-zinc-100 ltr:ml-3 rtl:mr-3">
+                                <a
+                                    :href="secondLevelCategory.url"
+                                    class="mt-5 flex items-center justify-between pb-5"
+                                >
+                                    {{ secondLevelCategory.name }}
+                                </a>
+
+                                <span
+                                    class="cursor-pointer text-2xl"
+                                    :class="{
+                                        'icon-arrow-down': secondLevelCategory.category_show,
+                                        'icon-arrow-right': ! secondLevelCategory.category_show
+                                    }"
+                                    @click="secondLevelCategory.category_show = ! secondLevelCategory.category_show"
+                                >
+                                </span>
+                            </div>
+
+                            <div v-if="secondLevelCategory.category_show">
+                                <ul v-if="secondLevelCategory.children.length">
+                                    <li v-for="thirdLevelCategory in secondLevelCategory.children">
+                                        <div class="flex items-center justify-between border border-b border-l-0 border-r-0 border-t-0 border-zinc-100 ltr:ml-3 rtl:mr-3">
+                                            <a
+                                                :href="thirdLevelCategory.url"
+                                                class="mt-5 flex items-center justify-between pb-5 ltr:ml-3 rtl:mr-3"
+                                            >
+                                                {{ thirdLevelCategory.name }}
+                                            </a>
+                                        </div>
+                                    </li>
+                                </ul>
+
+                                <span
+                                    class="ltr:ml-2 rtl:mr-2"
+                                    v-else
+                                >
+                                    No category found.                                </span>
+                            </div>
+                        </li>
+                    </ul>
+
+                    <span
+                        class="mt-2 max-sm:my-1.5 ltr:ml-2 rtl:mr-2"
+                        v-else
+                    >
+                        No category found.                    </span>
+                </div>
+
+                
+            </template>
+        </div>
+
+        <!-- Localization & Currency Section -->
+            </script>
+
+    <script type="module">
+        app.component('v-mobile-category', {
+            template: '#v-mobile-category-template',
+
+            data() {
+                return  {
+                    categories: [],
+                }
+            },
+
+            mounted() {
+                this.get();
+            },
+
+            computed: {
+                getCurrentScreenHeight() {
+                    return window.innerHeight - (window.innerWidth < 920 ? 61 : 0) + 'px';
+                },
+            },
+
+            methods: {
+                get() {
+                    this.$axios.get("https://www.satu-tech.com/api/categories/tree")
+                        .then(response => {
+                            this.categories = response.data.data;
+                        }).catch(error => {
+                            console.log(error);
+                        });
+                },
+
+                toggle(selectedCategory) {
+                    this.categories = this.categories.map((category) => ({
+                        ...category,
+                        isOpen: category.id === selectedCategory.id ? ! category.isOpen : false,
+                    }));
+                },
+            },
+        });
+    </script>
+    <script
+        type="text/x-template"
+        id="v-accordion-template"
+    >
+        <div>
+            <slot
+                name="header"
+                :toggle="toggle"
+                :isOpen="isOpen"
+            >
+                admin::app.components.accordion.default-content            </slot>
+
+            <slot
+                name="content"
+                :isOpen="isOpen"
+            >
+                admin::app.components.accordion.default-content            </slot>
+        </div>
+    </script>
+
+    <script type="module">
+        app.component('v-accordion', {
+            template: '#v-accordion-template',
+
+            props: [
+                'isActive',
+            ],
+
+            data() {
+                return {
+                    isOpen: this.isActive,
+                };
+            },
+
+            methods: {
+                toggle() {
+                    this.isOpen = ! this.isOpen;
+
+                    this.$emit('toggle', { isActive: this.isOpen });
+                },
+            },
+        });
+    </script>
+    <script
+        type="text/x-template"
+        id="v-drawer-template"
+    >
+        <div>
+            <!-- Toggler -->
+            <div @click="open">
+                <slot name="toggle">
+                    admin::app.components.drawer.default-toggle                </slot>
+            </div>
+
+            <!-- Overlay -->
+            <transition
+                tag="div"
+                name="drawer-overlay"
+                enter-class="duration-300 ease-out"
+                enter-from-class="opacity-0"
+                enter-to-class="opacity-100"
+                leave-class="duration-200 ease-in"
+                leave-from-class="opacity-100"
+                leave-to-class="opacity-0"
+            >
+                <div
+                    class="fixed inset-0 z-20 bg-gray-500 bg-opacity-50 transition-opacity"
+                    v-show="isOpen"
+                ></div>
+            </transition>
+
+            <!-- Content -->
+            <transition
+                tag="div"
+                name="drawer"
+                :enter-from-class="enterFromLeaveToClasses"
+                enter-active-class="transform transition duration-200 ease-in-out"
+                enter-to-class="translate-x-0"
+                leave-from-class="translate-x-0"
+                leave-active-class="transform transition duration-200 ease-in-out"
+                :leave-to-class="enterFromLeaveToClasses"
+            >
+                <div
+                    class="fixed z-[1000] overflow-hidden bg-white max-md:!w-full"
+                    :class="{
+                        'inset-x-0 top-0': position == 'top',
+                        'inset-x-0 bottom-0 max-sm:max-h-full': position == 'bottom',
+                        'inset-y-0 ltr:right-0 rtl:left-0': position == 'right',
+                        'inset-y-0 ltr:left-0 rtl:right-0': position == 'left'
+                    }"
+                    :style="'width:' + width"
+                    v-show="isOpen"
+                >
+                    <div class="pointer-events-auto h-full w-full overflow-auto bg-white">
+                        <div class="flex h-full w-full flex-col">
+                            <div class="min-h-0 min-w-0 flex-1 overflow-auto">
+                                <div class="flex h-full flex-col">
+                                    <slot
+                                        name="header"
+                                        :close="close"
+                                    >
+                                        Default Header
+                                    </slot>
+
+                                    <!-- Content Slot -->
+                                    <slot name="content"></slot>
+
+                                    <!-- Footer Slot -->
+                                    <slot name="footer"></slot>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </transition>
+        </div>
+    </script>
+
+    <script type="module">
+        app.component('v-drawer', {
+            template: '#v-drawer-template',
+
+            props: [
+                'isActive',
+                'position',
+                'width'
+            ],
+
+            data() {
+                return {
+                    isOpen: this.isActive,
+                };
+            },
+
+            watch: {
+                isActive: function(newVal, oldVal) {
+                    this.isOpen = newVal;
+                }
+            },
+
+            computed: {
+                enterFromLeaveToClasses() {
+                    if (this.position == 'top') {
+                        return '-translate-y-full';
+                    } else if (this.position == 'bottom') {
+                        return 'translate-y-full';
+                    } else if (this.position == 'left') {
+                        return 'ltr:-translate-x-full rtl:translate-x-full';
+                    } else if (this.position == 'right') {
+                        return 'ltr:translate-x-full rtl:-translate-x-full';
+                    }
+                }
+            },
+
+            methods: {
+                toggle() {
+                    this.isOpen = ! this.isOpen;
+
+                    if (this.isOpen) {
+                        document.body.style.overflow = 'hidden';
+                    } else {
+                        document.body.style.overflow ='auto';
+                    }
+
+                    this.$emit('toggle', { isActive: this.isOpen });
+                },
+
+                open() {
+                    this.isOpen = true;
+
+                    document.body.style.overflow = 'hidden';
+
+                    this.$emit('open', { isActive: this.isOpen });
+                },
+
+                close() {
+                    this.isOpen = false;
+
+                    document.body.style.overflow = 'auto';
+
+                    this.$emit('close', { isActive: this.isOpen });
+                }
+            },
+        });
+    </script>
+    <script
+        type="text/x-template"
+        id="v-image-search-template"
+    >
+        <div>
+            <label
+                class="icon-camera absolute top-3 flex items-center text-xl max-sm:top-2.5 ltr:right-3 ltr:pr-3 max-md:ltr:right-1.5 rtl:left-3 rtl:pl-3 max-md:rtl:left-1.5"
+                aria-label="Search"
+                :for="'v-image-search-' + $.uid"
+                v-if="! isSearching"
+            >
+            </label>
+
+            <label
+                class="absolute top-2.5 flex cursor-pointer items-center text-xl ltr:right-3 ltr:pr-3 max-md:ltr:pr-1 rtl:left-3 rtl:pl-3 max-md:rtl:pl-1"
+                v-else
+            >
+                <!-- Spinner -->
+                <svg
+                    class="h-5 w-5 animate-spin text-black"
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                >
+                    <circle
+                        class="opacity-25"
+                        cx="12"
+                        cy="12"
+                        r="10"
+                        stroke="currentColor"
+                        stroke-width="4"
+                    >
+                    </circle>
+
+                    <path
+                        class="opacity-75"
+                        fill="currentColor"
+                        d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
+                    >
+                    </path>
+                </svg>
+            </label>
+
+            <input
+                type="file"
+                class="hidden"
+                ref="imageSearchInput"
+                :id="'v-image-search-' + $.uid"
+                @change="loadLibrary()"
+            />
+
+            <img
+                id="uploaded-image-url"
+                class="hidden"
+                :src="uploadedImageUrl"
+                alt="uploaded image url"
+                width="20"
+                height="20"
+            />
+        </div>
+    </script>
+
+    <script type="module">
+        app.component('v-image-search', {
+            template: '#v-image-search-template',
+
+            data() {
+                return {
+                    uploadedImageUrl: '',
+
+                    isSearching: false,
+                };
+            },
+
+            methods: {
+                /**
+                 * This method will dynamically load the scripts. Because image search library
+                 * only used when someone clicks or interact with the image button. This will
+                 * reduce some data usage for mobile user.
+                 * 
+                 * @return {void}
+                 */
+                loadLibrary() {
+                    this.$shop.loadDynamicScript(
+                        'https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js', () => {
+                            this.$shop.loadDynamicScript(
+                                'https://cdn.jsdelivr.net/npm/tensorflow-models-mobilenet-patch@2.1.1/dist/mobilenet.min.js', () => {
+                                    this.analyzeImage();
+                                }
+                            );
+                        }
+                    );
+                },
+
+                /**
+                 * This method will analyze the image and load the sets on the bases of trained model.
+                 * 
+                 * @return {void}
+                 */
+                analyzeImage() {
+                    this.isSearching = true;
+
+                    let imageInput = this.$refs.imageSearchInput;
+
+                    if (imageInput.files && imageInput.files[0]) {
+                        if (imageInput.files[0].type.includes('image/')) {
+                            if (imageInput.files[0].size <= 2000000) {
+                                let formData = new FormData();
+
+                                formData.append('image', imageInput.files[0]);
+
+                                this.$axios.post('https://www.satu-tech.com/search/upload', formData, {
+                                        headers: {
+                                            'Content-Type': 'multipart/form-data'
+                                        }
+                                    })
+                                    .then(response => {
+                                        let net;
+
+                                        let self = this;
+
+                                        this.uploadedImageUrl = response.data;
+
+                                        async function app() {
+                                            let analysedResult = [];
+
+                                            let queryString = '';
+
+                                            net = await mobilenet.load();
+
+                                            try {
+                                                const result = await net.classify(document.getElementById('uploaded-image-url'));
+
+                                                result.forEach(function(value) {
+                                                    queryString = value.className.split(',');
+
+                                                    if (queryString.length > 1) {
+                                                        analysedResult = analysedResult.concat(queryString);
+                                                    } else {
+                                                        analysedResult.push(queryString[0]);
+                                                    }
+                                                });
+                                            } catch (error) {
+                                                this.$emitter.emit('add-flash', { type: 'error', message: "Something went wrong, please try again later."});
+                                            }
+
+                                            localStorage.searchedImageUrl = self.uploadedImageUrl;
+
+                                            queryString = localStorage.searchedTerms = analysedResult.join('_');
+
+                                            queryString = localStorage.searchedTerms.split('_').map(term => {
+                                                return term.split(' ').join('+');
+                                            });
+
+                                            window.location.href = `${'https://www.satu-tech.com/search'}?query=${queryString[0]}&image-search=1`;
+                                        }
+
+                                        app();
+                                    })
+                                    .catch((error) => {
+                                        this.$emitter.emit('add-flash', { type: 'error', message: "Something went wrong, please try again later."});
+
+                                        this.isSearching = false;
+                                    });
+                            } else {
+                                imageInput.value = '';
+
+                                this.$emitter.emit('add-flash', { type: 'error', message: 'Size Limit Error'});
+
+                                this.isSearching = false;
+                            }
+                        } else {
+                            imageInput.value = '';
+
+                            this.$emitter.emit('add-flash', { type: 'error', message: 'Only images (.jpeg, .jpg, .png, ..) are allowed.'});
+
+                            this.isSearching = false;
+                        }
+                    }
+                },
+            },
+        });
+    </script>
+    <script
+        type="text/x-template"
+        id="v-mini-cart-template"
+    >
+        
+
+                    <v-drawer
+    
+    is-active=""
+    position="right"
+    width="500px"
+>
+            <template v-slot:toggle>
+            <span class="relative">
+                        <span
+                            class="icon-cart cursor-pointer text-2xl"
+                            role="button"
+                            aria-label="Shopping Cart"
+                            tabindex="0"
+                        ></span>
+
+                                                    <span
+                                class="absolute -top-4 rounded-[44px] bg-navyBlue px-2 py-1.5 text-xs font-semibold leading-[9px] text-white ltr:left-5 max-md:ltr:left-4 rtl:right-5 max-md:rtl:right-4"
+                                v-if="cart?.items_qty"
+                            >
+                                {{ cart.items_qty }}
+                            </span>
+                                            </span>
+        </template>
+    
+            <template v-slot:header="{ close }">
+            <div class="grid gap-y-2.5 p-6 pb-5 max-md:gap-y-1.5 max-md:border-b max-md:border-zinc-200 max-md:p-4 max-md:gap-y-1 max-md:font-semibold">
+                <div class="flex items-center justify-between">
+                        <p class="text-2xl font-medium max-md:text-xl max-sm:text-xl">
+                            Shopping Cart                        </p>
+                    </div>
+
+                    <p class="text-base max-md:text-zinc-500 max-sm:text-xs">
+                        Get Up To 30% OFF on your 1st order
+                    </p>
+
+                <div class="absolute top-5 max-sm:top-4 ltr:right-5 rtl:left-5">
+                    <span
+                        class="icon-cancel cursor-pointer text-3xl max-md:text-2xl"
+                        @click="close"
+                    >
+                    </span>
+                </div>
+            </div>
+        </template>
+    
+            <template v-slot:content>
+            <div class="flex-1 overflow-auto px-6 max-md:px-4">
+                <!-- Cart Item Listing -->
+                    <div 
+                        class="mt-9 grid gap-12 max-md:mt-2.5 max-md:gap-5" 
+                        v-if="cart?.items?.length"
+                    >
+                        <div 
+                            class="flex gap-x-5 max-md:gap-x-4" 
+                            v-for="item in cart?.items"
+                        >
+                            <!-- Cart Item Image -->
+                            
+
+                            <div class="">
+                                <a :href="`https://www.satu-tech.com/${item.product_url_key}`">
+                                    <img
+                                        :src="item.base_image.small_image_url"
+                                        class="max-h-28 max-w-28 rounded-xl max-md:max-h-20 max-md:max-w-[76px]"
+                                    />
+                                </a>
+                            </div>
+
+                            
+
+                        <!-- Cart Item Information -->
+                        <div class="grid flex-1 place-content-start justify-stretch gap-y-2.5">
+                            <div class="flex justify-between gap-2 max-md:gap-0 max-sm:flex-wrap">
+
+                                    
+
+                                    <a
+                                    class="max-w-4/5 max-md:w-full"
+                                    :href="`https://www.satu-tech.com/${item.product_url_key}`"
+                                >
+                                        <p class="text-base font-medium max-md:font-normal max-sm:text-sm">
+                                            {{ item.name }}
+                                        </p>
+                                    </a>
+
+                                    
+
+                                    
+
+                                    <template v-if="displayTax.prices == 'including_tax'">
+                                        <p class="text-lg max-md:font-semibold max-sm:text-sm">
+                                            {{ item.formatted_price_incl_tax }}
+                                        </p>
+                                    </template>
+
+                                    <template v-else-if="displayTax.prices == 'both'">
+                                        <p class="flex flex-col text-lg max-md:font-semibold max-sm:text-sm">
+                                            {{ item.formatted_price_incl_tax }}
+
+                                            <span class="text-xs font-normal text-zinc-500">
+                                                Excl. Tax:
+                                                <span class="font-medium text-black">{{ item.formatted_price }}</span>
+                                            </span>
+                                        </p>
+                                    </template>
+
+                                    <template v-else>
+                                        <p class="text-lg max-md:font-semibold max-sm:text-sm">
+                                            {{ item.formatted_price }}
+                                        </p>
+                                    </template>
+
+                                    
+                                </div>
+
+                                <!-- Cart Item Options Container -->
+                                <div
+                                    class="grid select-none gap-x-2.5 gap-y-1.5 max-sm:gap-y-0.5"
+                                    v-if="item.options.length"
+                                >
+
+                                    
+
+                                    <!-- Details Toggler -->
+                                    <div class="">
+                                        <p
+                                            class="flex cursor-pointer items-center gap-x-4 text-base max-md:gap-x-1.5 max-md:text-sm max-sm:text-xs"
+                                            @click="item.option_show = ! item.option_show"
+                                        >
+                                            See Details
+                                            <span
+                                                class="text-2xl max-md:text-xl max-sm:text-lg"
+                                                :class="{'icon-arrow-up': item.option_show, 'icon-arrow-down': ! item.option_show}"
+                                            ></span>
+                                        </p>
+                                    </div>
+
+                                    <!-- Option Details -->
+                                    <div
+                                        class="grid gap-2"
+                                        v-show="item.option_show"
+                                    >
+                                        <template v-for="option in item.options">
+                                            <div class="max-md:grid max-md:gap-0.5">
+                                                <p class="text-sm font-medium text-zinc-500 max-md:font-normal max-sm:text-xs">
+                                                    {{ option.attribute_name + ':' }}
+                                                </p>
+        
+                                                <p class="text-sm max-sm:text-xs">
+                                                    {{ option.option_label }}
+                                                </p>
+                                            </div>
+                                        </template>
+                                    </div>
+
+                                    
+                                </div>
+
+                                <div class="flex flex-wrap items-center gap-5 max-md:gap-2.5">
+                                    
+
+                                <!-- Cart Item Quantity Changer -->
+                                <v-quantity-changer
+    class="flex items-center border border-navyBlue max-h-9 max-w-[150px] gap-x-2.5 rounded-[54px] px-3.5 py-1.5 max-md:gap-x-2 max-md:px-1 max-md:py-0.5" :value="item?.quantity" @change="updateItem($event, item)"
+    name="quantity"
+    value="1"
+>
+</v-quantity-changer>
+
+
+                                    
+
+                                
+                                
+                                <!-- Cart Item Remove Button -->
+                                <button
+                                    type="button"
+                                    class="text-blue-700 max-md:text-sm"
+                                    @click="removeItem(item.id)"
+                                >
+                                    Remove                                </button>
+
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Empty Cart Section -->
+                    <div
+                        class="mt-32 pb-8 max-md:mt-32"
+                        v-else
+                    >
+                        <div class="b-0 grid place-items-center gap-y-5 max-md:gap-y-0">
+                            <img
+                                class="max-md:h-[100px] max-md:w-[100px]"
+                                src="https://www.satu-tech.com/themes/shop/default/build/assets/thank-you-aa4a2b62.png"
+                            >
+
+                            <p
+                                class="text-xl max-md:text-sm"
+                                role="heading"
+                            >
+                                Your cart is empty                            </p>
+                        </div>
+                    </div>
+            </div>
+        </template>
+    
+            <template v-slot:footer>
+            <div class="pb-8 max-md:pb-2">
+                <div
+                    v-if="cart?.items?.length"
+                    class="grid-col-1 grid gap-5 max-md:gap-2.5"
+                >
+                    <div
+                        class="my-8 flex items-center justify-between border-b border-zinc-200 px-6 pb-2 max-md:my-0 max-md:border-t max-md:px-5 max-md:py-2"
+                        :class="{'!justify-end': isLoading}"
+                    >
+                        
+
+                        <template v-if="! isLoading">
+                            <p class="text-sm font-medium text-zinc-500">
+                                Subtotal                            </p>
+                        
+                        <template v-if="displayTax.subtotal == 'including_tax'">
+                            <p class="text-3xl font-semibold max-md:text-base">
+                                {{ cart.formatted_sub_total_incl_tax }}
+                            </p>
+                        </template>
+
+                        <template v-else-if="displayTax.subtotal == 'both'">
+                            <p class="flex flex-col text-3xl font-semibold max-md:text-sm max-sm:text-right">
+                                {{ cart.formatted_sub_total_incl_tax }}
+                                
+                                <span class="text-sm font-normal text-zinc-500 max-sm:text-xs">
+                                    Excl. Tax:                                    
+                                    <span class="font-medium text-black">{{ cart.formatted_sub_total }}</span>
+                                </span>
+                            </p>
+                        </template>
+
+                        <template v-else>
+                            <p class="text-3xl font-semibold max-md:text-base">
+                                {{ cart.formatted_sub_total }}
+                            </p>
+                        </template>
+                    </template>
+
+                        <template v-else>
+                            <!-- Spinner -->
+                            <svg
+                                class="text-blue h-8 w-8 animate-spin text-[5px] font-semibold max-md:h-7 max-md:w-7 max-sm:h-4 max-sm:w-4"
+                                xmlns="http://www.w3.org/2000/svg"
+                                fill="none"
+                                aria-hidden="true"
+                                viewBox="0 0 24 24"
+                            >
+                                <circle
+                                    class="opacity-25"
+                                    cx="12"
+                                    cy="12"
+                                    r="10"
+                                    stroke="currentColor"
+                                    stroke-width="4"
+                                ></circle>
+                
+                                <path
+                                    class="opacity-75"
+                                    fill="currentColor"
+                                    d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
+                                ></path>
+                            </svg>
+                        </template>
+
+                            
+                        </div>
+
+                        
+
+                        <!-- Cart Action Container -->
+                        <div class="grid gap-2.5 px-6 max-md:px-4 max-sm:gap-1.5">
+                            
+
+                        <a
+                            href="https://www.satu-tech.com/checkout/onepage"
+                            class="mx-auto block w-full cursor-pointer rounded-2xl bg-navyBlue px-11 py-4 text-center text-base font-medium text-white max-md:rounded-lg max-md:px-5 max-md:py-2"
+                        >
+                            Continue to Checkout                        </a>
+
+                            
+
+                            <div class="block cursor-pointer text-center text-base font-medium max-md:py-1.5">
+                                <a href="https://www.satu-tech.com/checkout/cart">
+                                    View Cart                                </a>
+                            </div>
+                        </div>
+
+                        
+                    </div>
+            </div>
+        </template>
+    </v-drawer>
+
+
+        
+        
+    </script>
+
+    <script type="module">
+        app.component("v-mini-cart", {
+            template: '#v-mini-cart-template',
+
+            data() {
+                return  {
+                    cart: null,
+
+                    isLoading:false,
+
+                    displayTax: {
+                        prices: "excluding_tax",
+                        subtotal: "excluding_tax",
+                    },
+                }
+            },
+
+            mounted() {
+                this.getCart();
+
+                /**
+                 * To Do: Implement this.
+                 *
+                 * Action.
+                 */
+                this.$emitter.on('update-mini-cart', (cart) => {
+                    this.cart = cart;
+                });
+            },
+
+            methods: {
+                getCart() {
+                    this.$axios.get('https://www.satu-tech.com/api/checkout/cart')
+                        .then(response => {
+                            this.cart = response.data.data;
+                        })
+                        .catch(error => {});
+                },
+
+                updateItem(quantity, item) {
+                    this.isLoading = true;
+
+                    let qty = {};
+
+                    qty[item.id] = quantity;
+
+                    this.$axios.put('https://www.satu-tech.com/api/checkout/cart', { qty })
+                        .then(response => {
+                            if (response.data.message) {
+                                this.cart = response.data.data;
+                            } else {
+                                this.$emitter.emit('add-flash', { type: 'warning', message: response.data.data.message });
+                            }
+
+                            this.isLoading = false;
+                        }).catch(error => this.isLoading = false);
+                },
+
+                removeItem(itemId) {
+                    this.$emitter.emit('open-confirm-modal', {
+                        agree: () => {
+                            this.isLoading = true;
+
+                            this.$axios.post('https://www.satu-tech.com/api/checkout/cart', {
+                                '_method': 'DELETE',
+                                'cart_item_id': itemId,
+                            })
+                            .then(response => {
+                                this.cart = response.data.data;
+
+                                this.$emitter.emit('add-flash', { type: 'success', message: response.data.message });
+                                
+                                this.isLoading = false;
+                            })
+                            .catch(error => {
+                                this.$emitter.emit('add-flash', { type: 'error', message: response.data.message });
+
+                                this.isLoading = false;
+                            });
+                        }
+                    });
+                },
+            },
+        });
+    </script>
+    <script
+        type="text/x-template"
+        id="v-dropdown-template"
+    >
+        <div>
+            <div
+                class="select-none"
+                ref="toggleBlock"
+                @click="toggle()"
+            >
+                <slot name="toggle">Toggle</slot>
+            </div>
+
+            <transition
+                tag="div"
+                name="dropdown"
+                enter-active-class="transition duration-100 ease-out"
+                enter-from-class="scale-95 transform opacity-0"
+                enter-to-class="scale-100 transform opacity-100"
+                leave-active-class="transition duration-75 ease-in"
+                leave-from-class="scale-100 transform opacity-100"
+                leave-to-class="scale-95 transform opacity-0"
+            >
+                <div
+                    class="absolute z-20 w-max overflow-hidden rounded-[20px] bg-white shadow-[0px_10px_84px_rgba(0,0,0,0.1)] max-md:rounded-lg"
+                    :style="positionStyles"
+                    v-show="isActive"
+                >
+                    <slot name="content"></slot>
+
+                    <slot name="menu"></slot>
+                </div>
+            </transition>
+        </div>
+    </script>
+
+    <script type="module">
+        app.component('v-dropdown', {
+            template: '#v-dropdown-template',
+
+            props: {
+                position: String,
+
+                closeOnClick: {
+                    type: Boolean,
+                    required: false,
+                    default: true
+                },
+            },
+
+            data() {
+                return {
+                    toggleBlockWidth: 0,
+
+                    toggleBlockHeight: 0,
+
+                    isActive: false,
+                };
+            },
+
+            created() {
+                window.addEventListener('click', this.handleFocusOut);
+            },
+
+            mounted() {
+                this.toggleBlockWidth = this.$refs.toggleBlock.clientWidth;
+
+                this.toggleBlockHeight = this.$refs.toggleBlock.clientHeight;
+            },
+
+            beforeDestroy() {
+                window.removeEventListener('click', this.handleFocusOut);
+            },
+
+            computed: {
+                positionStyles() {
+                    switch (this.position) {
+                        case 'bottom-left':
+                            return [
+                                `min-width: ${this.toggleBlockWidth}px`,
+                                `top: ${this.toggleBlockHeight}px`,
+                                'left: 0',
+                            ];
+
+                        case 'bottom-right':
+                            return [
+                                `min-width: ${this.toggleBlockWidth}px`,
+                                `top: ${this.toggleBlockHeight}px`,
+                                'right: 0',
+                            ];
+
+                        case 'top-left':
+                            return [
+                                `min-width: ${this.toggleBlockWidth}px`,
+                                `bottom: ${this.toggleBlockHeight}px`,
+                                'left: 0',
+                            ];
+
+                        case 'top-right':
+                            return [
+                                `min-width: ${this.toggleBlockWidth}px`,
+                                `bottom: ${this.toggleBlockHeight}px`,
+                                'right: 0',
+                            ];
+
+                        default:
+                            return [
+                                `min-width: ${this.toggleBlockWidth}px`,
+                                `top: ${this.toggleBlockHeight}px`,
+                                'left: 0',
+                            ];
+                    }
+                },
+            },
+
+            methods: {
+                toggle() {
+                    /**
+                     * If still somehow width is zero then this will check for width one more time.
+                     */
+                    if (this.toggleBlockWidth === 0) {
+                        this.toggleBlockWidth = this.$refs.toggleBlock.clientWidth;
+                    }
+
+                    /**
+                     * If still somehow height is zero then this will check for height one more time.
+                     */
+                    if (this.toggleBlockHeight === 0) {
+                        this.toggleBlockHeight = this.$refs.toggleBlock.clientHeight;
+                    }
+
+                    this.isActive = ! this.isActive;
+                },
+
+                handleFocusOut(e) {
+                    if (! this.$el.contains(e.target) || (this.closeOnClick && this.$el.children[1].contains(e.target))) {
+                        this.isActive = false;
+                    }
+                },
+            },
+        });
+    </script>
+    <script
+        type="text/x-template"
+        id="v-quantity-changer-template"
+    >
+        <div>
+            <span 
+                class="icon-minus cursor-pointer text-2xl"
+                role="button"
+                tabindex="0"
+                aria-label="Decrease Quantity"
+                @click="decrease"
+            >
+            </span>
+
+            <p class="w-2.5 select-none text-center max-sm:text-sm">
+                {{ quantity }}
+            </p>
+            
+            <span 
+                class="icon-plus cursor-pointer text-2xl"
+                role="button"
+                tabindex="0"
+                aria-label="Increase Quantity"
+                @click="increase"
+            >
+            </span>
+
+            <v-field
+                type="hidden"
+                :name="name"
+                v-model="quantity"
+            ></v-field>
+        </div>
+    </script>
+
+    <script type="module">
+        app.component("v-quantity-changer", {
+            template: '#v-quantity-changer-template',
+
+            props:['name', 'value'],
+
+            data() {
+                return  {
+                    quantity: this.value,
+                }
+            },
+
+            watch: {
+                value() {
+                    this.quantity = this.value;
+                },
+            },
+
+            methods: {
+                increase() {
+                    this.$emit('change', ++this.quantity);
+                },
+
+                decrease() {
+                    if (this.quantity > 1) {
+                        this.quantity -= 1;
+
+                        this.$emit('change', this.quantity);
+                    }
+                },
+            }
+        });
+    </script>
+    <script
+        type="text/x-template"
+        id="v-desktop-category-template"
+    >
+        <div
+            class="flex items-center gap-5"
+            v-if="isLoading"
+        >
+            <span
+                class="shimmer h-6 w-20 rounded"
+                role="presentation"
+            ></span>
+
+            <span
+                class="shimmer h-6 w-20 rounded"
+                role="presentation"
+            ></span>
+
+            <span
+                class="shimmer h-6 w-20 rounded"
+                role="presentation"
+            ></span>
+        </div>
+
+        <div
+            class="flex items-center"
+            v-else
+        >
+            <div
+                class="group relative flex h-[77px] items-center border-b-4 border-transparent hover:border-b-4 hover:border-navyBlue"
+                v-for="category in categories"
+            >
+                <span>
+                    <a
+                        :href="category.url"
+                        class="inline-block px-5 uppercase"
+                    >
+                        {{ category.name }}
+                    </a>
+                </span>
+
+                <div
+                    class="pointer-events-none absolute top-[78px] z-[1] max-h-[580px] w-max max-w-[1260px] translate-y-1 overflow-auto overflow-x-auto border border-b-0 border-l-0 border-r-0 border-t border-[#F3F3F3] bg-white p-9 opacity-0 shadow-[0_6px_6px_1px_rgba(0,0,0,.3)] transition duration-300 ease-out group-hover:pointer-events-auto group-hover:translate-y-0 group-hover:opacity-100 group-hover:duration-200 group-hover:ease-in ltr:-left-9 rtl:-right-9"
+                    v-if="category.children.length"
+                >
+                    <div class="aigns flex justify-between gap-x-[70px]">
+                        <div
+                            class="grid w-full min-w-max max-w-[150px] flex-auto grid-cols-[1fr] content-start gap-5"
+                            v-for="pairCategoryChildren in pairCategoryChildren(category)"
+                        >
+                            <template v-for="secondLevelCategory in pairCategoryChildren">
+                                <p class="font-medium text-navyBlue">
+                                    <a :href="secondLevelCategory.url">
+                                        {{ secondLevelCategory.name }}
+                                    </a>
+                                </p>
+
+                                <ul
+                                    class="grid grid-cols-[1fr] gap-3"
+                                    v-if="secondLevelCategory.children.length"
+                                >
+                                    <li
+                                        class="text-sm font-medium text-zinc-500"
+                                        v-for="thirdLevelCategory in secondLevelCategory.children"
+                                    >
+                                        <a :href="thirdLevelCategory.url">
+                                            {{ thirdLevelCategory.name }}
+                                        </a>
+                                    </li>
+                                </ul>
+                            </template>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </script>
+
+    <script type="module">
+        app.component('v-desktop-category', {
+            template: '#v-desktop-category-template',
+
+            data() {
+                return  {
+                    isLoading: true,
+
+                    categories: [],
+                }
+            },
+
+            mounted() {
+                this.get();
+            },
+
+            methods: {
+                //get() {
+                //    this.$axios.get("https://www.satu-tech.com/api/categories/tree")
+                //        .then(response => {
+                //            this.isLoading = false;
+
+                //            this.categories = response.data.data;
+                //        }).catch(error => {
+                //            console.log(error);
+                //        });
+                //},
+
+                get() {
+                    this.$axios.get("https://www.satu-tech.com/api/categories/tree")
+                        .then(response => {
+                            this.isLoading = false;
+
+                            // Batasi hanya 4 kategori pertama
+                            this.categories = response.data.data.slice(0, 4);
+                        }).catch(error => {
+                            console.log(error);
+                        });
+                },
+
+                pairCategoryChildren(category) {
+                    return category.children.reduce((result, value, index, array) => {
+                        if (index % 2 === 0) {
+                            result.push(array.slice(index, index + 2));
+                        }
+
+                        return result;
+                    }, []);
+                }
+            },
+        });
+    </script>
+
+        
+        <script>
+            /**
+             * Load event, the purpose of using the event is to mount the application
+             * after all of our `Vue` components which is present in blade file have
+             * been registered in the app. No matter what `app.mount()` should be
+             * called in the last.
+             */
+            window.addEventListener("load", function (event) {
+                app.mount("#app");
+            });
+        </script>
+
+        
+
+        <script type="text/javascript">
+            
+        </script>
+    </body>
+</html>
